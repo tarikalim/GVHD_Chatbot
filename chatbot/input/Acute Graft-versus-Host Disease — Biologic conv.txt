@@ -1,0 +1,547 @@
+﻿Acute Graft-versus-Host Disease — Biologic Process, Prevention, and Therapy
+
+
+Robert Zeiser, M.D., and Bruce R. Blazar, M.D.
+
+he allogeneic transplantation of hematopoietic cells is a well-established treatment for hematologic diseases that cannot be cured with  conventional  treatments.1    More  than  1  million  hematopoietic-cell
+T
+transplantations have been performed, of which 40% were allogeneic.2  The most common life-threatening complication is graft-versus-host disease (GVHD), which occurs when immunocompetent T cells in the donated tissue (the graft) recognize the recipient (the host) as foreign. The resulting immune response activates donor T cells to gain cytolytic capacity and to then attack the recipient to eliminate for-eign antigen-bearing cells. The two main clinical presentations are acute GVHD and chronic GVHD. This review focuses on acute GVHD.
+
+Clinical Presentation and Risk Factors
+
+Signs of typical acute GVHD include a maculopapular rash; hyperbilirubinemia with jaundice due to damage to the small bile ducts, leading to cholestasis; nausea, vomiting, and anorexia; and watery or bloody diarrhea and crampy abdominal pain (Fig. 1, and the text and Table S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org). The diagnosis of acute GVHD relies on the assessment of target organs by means of clinical and laboratory analyses and biopsy. The severity is graded clinically by tabulating the extent of the involve-ment of the three main target organs: the skin (the site of the most frequent and often the earliest clinical manifestation), the gastrointestinal tract (the second most common site), and the liver.3,4  Grade 1 acute GVHD is considered to be mild, grade 2 moderate, grade 3 severe, and grade 4 very severe. Among all patients undergoing allogeneic hematopoietic-cell transplantation, 30 to 50% have acute GVHD (grades 1–4) and 14% have severe acute GVHD (grades 3–4).5  Risk factors include the degree of HLA mismatch, receipt of a transplant from an unrelated donor, a female donor for a male recipient, the use of peripheral-blood stem-cell grafts, and the intensity of the conditioning regimen. (See Table S2 in the Supple-mentary Appendix for a summary of risk factors.)6-8
+Donor T-cell recognition that induces acute GVHD can be directed against host major histocompatibility complex (MHC), host minor histocompatibility antigens, or both. HLA class I molecules (A, B, and C) are expressed at variable levels by all cells, whereas MHC class II molecules (DR, DQ, and DP) are mainly expressed by hematopoietic cells, especially antigen-presenting cells (APCs), such as host B cells, dendritic cells, macrophages, and monocytes. Recent data indicate that recogni-tion of a mismatch in the polymorphic MHC class I chain-related gene A, or MICA, is connected to a higher risk of GVHD.9  The role for minor histocompatibility antigens is supported by genomewide analysis of single-nucleotide polymorphisms.
+
+Representative images of clinical features of acute graft-versus-host disease (GVHD) are shown. Early and advanced stages of the disease are shown in the skin in Panels A and B and in the intestinal tract in Panels C and D. Histologic aspects of acute GVHD are shown in biopsy specimens of the skin (Panel E), the liver (Panels F and G), and the colon (Panels H and I). Panel E reveals apoptotic cells (arrows) in the basal layer of the epider-mis. Panel F shows damage to small, interlobular bile ducts that is characterized by epithelial irregularities
+(black arrow) and rare apoptosis (red arrow). Moderate inflammation of the adjacent portal area (blue arrow) can also be seen. Panel G shows infiltration of bile-duct epithelium by CD3+ lymphocytes (arrow). Panel H shows denudation of the mucosal surface (black arrow) and partial crypt destruction in a patient with intestinal acute GVHD. Panel I shows scattered apoptotic bodies in regenerating crypts in close association with explod-ing crypts that contain karyorrhectic nuclear debris. Panels E, F, H, and I show staining with hematoxylin and eosin, and Panel G anti-CD3 immunolabeling. Histo-logic images of the skin were provided courtesy of Dr. Kristin Technau and images of the liver and intestines courtesy of Dr. Annette Schmitt-Gräff, both of the Uni-versity of Freiburg.
+
+I Colon-BiopsySpecimen ofApoptosis
+
+(SNPs), which has revealed differences in the coding of amino acids between recipients and donors; each 1% increase in genomewide re-cipient mismatching is associated with a 20% increase  in  the  risk  of  severe  acute  GVHD.10 Mismatches in minor histocompatibility anti-gens among patients undergoing allogeneic trans-plantation have been related to GVHD.11
+Although  high-resolution  HLA  typing  with next-generation sequencing will probably lead to the detection of more HLA mismatches, it is unclear whether such information will lead to improved outcomes in allogeneic transplantation, since not all mismatches may be recognized by donor T cells. SNPs for chemokines, cytokines, costimulatory   molecules,   and   micro-RNAs (miRNAs)  are  also  associated  with  a  risk  of acute GVHD (see the Supplementary Appendix). Although the risk of acute GVHD can be in-creased by mismatches and closer matching may reduce the risk, mismatched antigens that are present in normal tissue may be shared with malignant cells; thus, some mismatches may be important for graft-versus-leukemia responses, and greater matching could increase the risk of relapse.
+
+Tissue Damage and Early Events
+in Murine Models
+
+Our understanding of the biologic features of GVHD is based mostly on studies in mice. Al-though the application of these studies to hu-mans is limited by differences in murine and human physiologic and immunologic functions, transplantation procedures,12 and microbiomes,13 murine models of acute GVHD form the basis of much of our understanding of the disease. The earliest pathophysiological events in the disease process are neoangiogenesis14,15 and infiltration of the intestinal tract by innate myeloid cells, such as neutrophil granulocytes (neutrophils)16-19 and monocytes,20,21  first-wave immune respond-ers to tissue injury, and foreign pathogens. Re-cipient neutrophils affect GVHD through their activation  and  production  of  reactive  oxygen species in the gastrointestinal tract.17  The effect of neutrophils on acute GVHD is further sup-ported by observations that a high density of neutrophil infiltration is correlated with unfavor-able outcomes18  and increased intestinal perme-ability after allogeneic transplantation.19   Con-versely,  the  defective  production  of  reactive oxygen species in patients with chronic granulo-matous disease has resulted in a low rate of acute GVHD.22  However, tissue-protective effects can be conferred by neutrophils and monocytes, depending on the specific cell subset involved, the time point related to allogeneic transplanta-tion, the nature of the tissue, and the environmen-tal context (see the Supplementary Appendix).
+In the early phase of acute GVHD, inflamma-tory triggers can drive both innate and adaptive immune responses. These triggers can be divided into two categories: sterile damage-associated mo-lecular pattern (DAMP) molecules and pathogen-associated molecular pattern (PAMP) molecules. DAMPs comprise molecules released into the ex-tracellular space only when there is tissue dam-age that causes immune activation.23  GVHD can be enhanced when extracellular ATP activates the purinergic P2X724   and P2Y220   receptors. ATP is metabolized by the ectonucleotidase CD39 (which is expressed by endothelial and immune cells) into adenosine monophosphate and then into anti-inflammatory adenosine (with the latter occurring by means of CD73, which in acute GVHD is ex-
+
+pressed by organs such as the colon, liver, and lungs and by endothelial cells and leukocytes).25 Consequently, the lack of CD73 enhances not only GVHD but also graft-versus-leukemia effects.26,27 In mice, ATP and uric acid can activate the in-flammasome of nucleotide-binding oligomeriza-tion domain–like (NOD) receptor protein 3, a myeloid-expressed multiprotein oligomer contain-ing caspase-1 or caspase-11, leading to the cleav-age of pro–interleukin-1β into its bioactive form and thereby enhancing GVHD.28  Other DAMPs include heparan sulfate, high-mobility group box 1 protein, sialic acid–binding immunoglobulin-type lectins, mitochondrial components, interleu-kin-33, and biglycan, a small, leucine-rich repeat proteoglycan29-36  (Fig. 2). As is the case with my-eloid cells, tissue and inflammatory context are important for net DAMP effects. This observation particularly applies to interleukin-33, which has antiinflammatory properties when introduced before tissue damage owing to the expansion of suppressor CD4+CD25+FoxP3+ regulatory T cells (Tregs), which express the interleukin-33 re-ceptor (suppression of tumorigenicity 2 [ST2]).34 Conversely, the administration of interleukin-33 during the evolution of GVHD promotes the ex-pansion of interferon-γ–producing T cells and leads to acute GVHD,34  whereas the blockade of the interleukin-33–ST2 axis can reduce levels of proinflammatory cytokines and the intensity of acute GVHD.34,35
+Although the role of sterile DAMPs in GVHD was discovered in 2010, the roles of bacteria and the resulting PAMPs, such as lipopolysaccharide, in GVHD have been studied since the 1970s, with the first seminal studies being conducted in mice.37 The direct effects of the bacterial com-ponents  that  engage  immune-system  pattern-recognition receptors, such as toll-like receptors and NOD receptors, can activate APCs and pro-mote acute GVHD. New technologies, such as bacterial genome sequencing, permit better un-derstanding of which bacteria in the gastrointes-tinal tract decrease in number with the adminis-tration of antibiotics (thereby diminishing acute GVHD), which bacteria are protective of acute GVHD,38,39  and which may promote relapse-free and progression-free survival.40  GVHD itself in-duces dysbiosis in mice.41  The increased risk of GVHD-related death that can accompany certain
+
+
+
+
+
+n engl j med 377;22    nejm.org    November 30, 2017	2169
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+The  new england journal of  medicine
+I L E U M  A N D  C O L O N
+I L E U M  A N D  C O L O N
+I L E U M
+J E J U N U M  A N D  O T H E R  S I T E S
+
+
+AProinflammatoryEvents	BAntiinflammatoryEventsandRepairMechanisms
+
+
+
+Damaged cell
+J E J U N U M  A N D  O T H E R  S I T E S
+
+
+DAMPs: ATP Uricacid
+Interleukin-33 HMGB-1
+
+
+P2X7
+P2Y2
+NLRP3
+T cell
+ST2
+Interferon-γ
+
+
+
+Epithelial cell
+
+
+regulatory	Interleukin-13 T cell
+Type-1
+
+Myeloid-derived Interleukin-10	suppressor cell
+Arginase1
+
+Innate lymphoid cell 2
+
+
+
+Epithelial cell
+
+
+
+
+
+Recipient-type dendritic cell
+
+
+Inflammation
+
+Monocyte
+Neutrophil
+
+GranzymeB
+
+T efcfeelcltor	TGF-β
+Damage		Dendritic	PD-L1,L2 Inhibitory                   cell
+B7-H4
+ligands	B7-H3
+
+
+KGF	Fibroblast
+
+
+
+
+
+
+Weaktight
+I L E U M
+junctions
+
+
+Damaged cell
+
+ROS	Neutrophil
+
+Amphiregulin
+
+
+Interleukin-22
+
+
+Treg
+
+
+Innate lymphoid cell 3
+
+
+
+
+L U M E N	Stem cell
+
+
+L U M E N
+Stem cell
+
+R-spondin	Fibroblast
+
+LGR5
+
+
+
+Bacteria, fungi, and viruses
+
+
+Bacteria, fungi,	R-spondin and viruses                                                                      Probiotics
+
+
+
+Lossof mucus
+
+
+Weaktight junctions
+
+
+PAMPs
+
+
+Activationofantigen-presentingcellsthrough TLRandNOD-R
+
+
+Defensins Butyrate
+Reg3-γ
+
+Protective mucus
+Antibacterialactivity
+
+
+Paneth cell
+
+
+
+Donor-type CD103+ dendritic cell
+
+Recipient-type
+dendritic cell	Protectiveeffects
+
+
+
+
+
+Neutrophilsanddonor andrecipientdendritic cellsentermesenteric lymphnodes
+
+PrimingofTCellswithSuitable T-CellReceptor(TCR)
+
+
+T cell
+
+
+ActivationandChemotaxis
+
+Natural Activated
+T cell	regulatory
+
+
+
+
+TCR	Recipient-type dendritic cell
+
+
+Myeloid-derived suppressor cell
+
+Efferent lymphatic vessel
+
+
+
+
+
+
+Afferent lymphatic vessel
+
+C O R T E X
+
+Germinal center of secondary
+follicle	P A R A C O R T E X
+
+
+
+
+M E D U L L A R Y C O R D S
+
+
+
+2170	n engl j med 377;22    nejm.org    November 30, 2017
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+Acute Graft-versus-Host Disease
+
+
+
+Figure 2 (facing page). Early Events in Acute GVHD.
+Panel A shows DAMP (damage-associated molecular pattern) molecules, which include ATP, uric acid, inter-leukin-33, and high-mobility group box 1 (HMGB-1) pro-teins. DAMPs are released from dying cells or disrupted extracellular matrix and activate their respective recep-tors (e.g., ATP activates P2X7 and P2Y2, and uric acid activates the NLRP3 inflammasome). PAMP (pathogen-associated molecular pattern) molecules are derived from invading bacteria, fungi, and viruses and activate innate immune cells, including donor-derived CD103+ dendritic cells, inflammatory monocytes, and neutro-phils. Some of these cells migrate from the damaged intestinal epithelium toward mesenteric lymph nodes, where donor T cells are activated. Panel B shows anti-inflammatory events and repair mechanisms that are triggered by proinflammatory events. Cells in the organs affected by GVHD attempt to counterbalance inflamma-tion through the release of tolerogenic soluble factors, up-regulation of antiinflammatory surface receptors, and repair mechanisms. Antiinflammatory events in the early phase include the release of interleukin-10 by type 1 regulatory T cells, of indoleamine-2,3-dioxygenase (IDO) by myeloid-derived suppressor cells, and of in-hibitory signals through PD-L1, B7-H3 and B7-H4 by tolerogenic dendritic cells. Repair mechanisms include the production and release of keratinocyte growth fac-tor (KGF) by fibrosblasts, amphiregulin by Treg, inter-leukin-22 by innate lymphoid cells type 3, and R-spondin by fibroblasts. Butyrate produced by commensal bacteria (clostridiae) protects the intestinal stem cells and leads to repair. Defensins and regenerating proteins (e.g., Reg3-γ) secreted by Paneth cells have antibacterial activity. To-gether with the mucous barrier, they protect cells from invading bacteria. Activation signals and chemotactic signals for regulatory T cells (Tregs) and type 1 regula-tory (Tr1) cells are provided in the lymph nodes. KGF denotes keratinocyte growth factor, LGR5 leucine-rich repeat-containing G-protein coupled receptor 5, NOD-R nucleotide-binding oligomerization domain–like recep-tor, PD-L1 and L2 programmed death ligands 1 and 2, ROS reactive oxygen species, TGF-β transforming growth factor beta, and TLR toll-like receptor.
+
+
+antibiotic treatment regimens in mice and hu-mans39  is probably related to the loss of gastro-intestinal homeostasis, which depends heavily on microbiota-derived metabolites. Butyrate that is secreted by intestinal bacteria functions as a histone deacetylase inhibitor and reduces the potency of GVHD by inhibiting indoleamine-2,3-dioxygenase (IDO)–dependent innate immune and allostimulating APC functions that are de-pendent on STAT-3.42   IDO expression itself is up-regulated in intestinal parenchymal cells and APCs in mice43  as a result of the production of interferon-γ by alloreactive T cells.44  IDO causes local depletion of the essential amino acid tryp-
+
+tophan through a stress–response mechanism, resulting in the metabolic starvation and apop-tosis of T cells at sites of high IDO expression, such as the colon.43  Fungi and viruses are also related to the severity of GVHD (e.g., α-mannan, derived  from  fungi,  induces  type  17  helper– mediated pulmonary GVHD in mice).45  Cumula-tively, DAMPs and PAMPs lead to rapid intra-cellular biochemical cascades that induce the caspase-1 cleavage of inactive precursor cyto-kines stored intracellularly (e.g., interleukin-1β and interleukin-18) and the transcription of genes that encode cytokines, chemokines, and their receptors. Overall, the early events of acute GVHD set the stage for later T-cell priming and expansion.
+
+T-Cell Activity in Murine
+Models
+
+A key event in the development of acute GVHD is the interaction of T cells expressing a suitable T-cell receptor (TCR) with APCs that express host MHC or minor histocompatibility antigen peptides. Reports on models of acute GVHD in mice also point to the role of nonhematopoietic cells  in  the  antigen-presentation  process.46,47 T cells are the main effectors of targeted tissue-cell death that can be mediated by the expres-sion of the tumor necrosis factor (TNF) family member FAS ligand and by the release of intra-cellular granule contents, including granzyme B, a serine protease, and perforin, a pore-forming cytolytic protein.48,49  When only host and donor MHC-class molecules are mismatched, donor CD8+ T cells alone are sufficient to induce GVHD. When there are disparities in minor histocom-patibility antigens, CD8+ T cells require cognate, or direct, interactions with GVHD target tis-sues,50  a situation particularly relevant in human allogeneic transplantation owing to the frequent mismatches in minor histocompatibility antigens. CD4+ T cells can cause GVHD through cognate interactions  with  MHC  class  II  alone  or  with minor histocompatibility antigen peptides, or these cells can damage tissues without cognate interactions by releasing cytotoxic cytokines, such as TNF-α, which induce apoptosis in epithelial cells.51  In contrast to T cells, natural killer cells reduce  GVHD  by  eliminating  recipient-type APCs, a process that is based on mismatches of killer-cell immunoglobulin-like receptors52  and
+
+
+
+n engl j med 377;22    nejm.org    November 30, 2017	2171
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+The  new england journal of  medicine
+
+
+
+an elaboration of transforming growth factor β that can suppress T-cell activation.53
+In  addition  to  requiring  activation  of  their receptors, T cells need costimulation — a sec-ond T-cell signal that is required to lower the TCR-activation threshold, amplify and sustain cytokine production, inhibit apoptosis, and sup-port the metabolism of effector T cells. The role of  multiple  costimulatory  pathways  in  acute GVHD has been studied. These pathways include the positive regulatory pathways CD2854,55   and ICOS (CD278),56  the TNFR superfamily receptors CD40L  (CD154),  OX40  (CD134),  and  4-1BB (CD137), and the negative regulatory pathways anti–cytotoxic T-lymphocyte–associated antigen 4 (CTLA-4) (CD152),55  programmed death 1 (PD-1) (CD279)–PD-L1 (CD274),57,58 and B7-H3 (CD276),59 among others (see the Supplementary Appendix). The third signal for T-cell activation and sur-vival is mediated by cytokines. Multiple cyto-kines (see the Supplementary Appendix) have been found to play a role in the pathogenesis of GVHD, including interleukin-1β and type 1 helper T-cell cytokines (interferon-γ, interleukin-2, and TNF). The stage at which T cells differentiate (becoming naive, effector, or memory T cells) is decisive  with  regard  to  their  ability  to  cause acute GVHD. In murine models of acute GVHD, memory CD4+ T cells are less likely to cause acute GVHD than naive CD4+ T cells.60,61  L-selec-tin (CD62L) and the chemokine-receptor CCR7 direct naive T cells to lymph nodes in which priming takes place through interaction with donor-derived CD11b and CD103, dendritic cells that have migrated from the colon to the mesen-teric lymph nodes, where they imprint donor T cells to express gut-homing integrin receptors.62 T-cell differentiation and proliferation during GVHD require multiple energy sources to keep pace with high metabolic demands. Aerobic gly-colysis is essential for potent GVHD effector T-cell responses.63-65  In some studies, effector T cells have also been shown to use oxidative phosphor-ylation  and  fatty  acid  oxidation,63,65,66   thereby meeting vital energy needs that cannot be met by glycolysis alone. The targeting of metabolic pathways and the subversion of the use of T-cell energy through the inhibition of glycolysis, fatty acid oxidation, oxidative phosphorylation, or glu-taminolysis or through the essential or condi-tional deprivation of essential amino acids (e.g., tryptophan or l-arginine, respectively) may re-duce the rapid pace of T-cell proliferation that is
+
+responsible for acute GVHD. This field of inves-tigation builds on early studies that show that blockade  of  the  nutrient  sensor  mammalian target of rapamycin (mTOR) ameliorates acute GVHD67   and that costimulation of CD28 regu-lates glycolysis.68  More recent studies show that the negative regulator PD-1 suppresses glycolysis, which is needed for effector T-cell responses, and promotes lipolysis and fatty acid oxidation.69 The specific nutrients and magnitude of energy needed during GVHD probably depend on the T-cell subset, the T-cell proliferation rate, the intensity of the inflammatory response, and local tissue environment. As metabolism drives cell cycles and proliferation, other targets involve cyclin-dependent kinases that affect cell-cycle regulation. For instance, roscovitine, an inhibitor of cyclin-dependent kinases, prevents alloreactive T-cell expansion and protects against acute GVHD in mice.70  The role of the three signals for T-cell activation and differentiation, key cytokines, and metabolic demands derived from studies of acute GVHD in mice provide pathophysiological targets for exploration in humans.
+
+Biomarkers for GVHD Severity
+
+To predict the risk of GVHD and the response to immunosuppressive therapy, multiple biomarkers have been investigated in recipients of allogeneic transplantation (see the text and Table S3 in the Supplementary Appendix). The serum level of the soluble form of ST2 has been reported to be an important biomarker for therapy resistance among patients with acute GVHD.71  On the basis of this observation, an algorithm for early biomarkers was studied with regard to its predictive value for the development of lethal acute GVHD.72  Re-searchers used a panel of four biomarkers — ST2,  TNF-α  receptor  type  1,  interleukin-2Rα chain (hereafter referred to as CD25), and regen-erating islet-derived protein-3α (REG3α) — that had been released from injured tissue or acti-vated effector T cells to predict the risk of death related to acute GVHD. By modeling the 6-month risk of death not related to relapse in an indepen-dent test set and a validation set, a two-biomarker model that used ST2 and REG3α concentrations identified patients with a cumulative incidence of nonrelapse-related death of 28% in the high-risk group and 7% in the low-risk group at 6 months.2 The miRNA molecules are potent regulators
+7
+of multiple proinflammatory target genes and
+
+
+2172	n engl j med 377;22    nejm.org    November 30, 2017
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+Acute Graft-versus-Host Disease
+
+
+
+are readily measurable in serum. The presence of multiple miRNAs in serum has been strongly connected to the risk of acute GVHD,73   with miRNA-155 and miRNA-146a being particularly strong indicators.74  In initial studies, the pres-ence of miRNA-146a polymorphism (rs2910164) in the donor or the recipient was associated with higher rates of grades 3 and 4 acute GVHD,75,76  a finding that requires confirmation in larger pa-tient cohorts. These and possibly other biomarker panels that have yet to be discovered hold prom-ise for improving the accuracy of predictions of the risk of acute GVHD and the risk of death from acute GVHD, which could lead to a more individualized approach to prophylaxis.
+
+Preventive and Therapeutic
+Strategies
+
+Acute GVHD prophylaxis with cyclosporine, a calcineurin inhibitor, and methotrexate, a folate antagonist, is used in the majority of patients receiving allogeneic transplants on the basis of a sequential, prospective, randomized trial show-ing  that  a  combination  of  cyclosporine  and methotrexate was superior to cyclosporine alone77 (see the Supplementary Appendix). Randomized, multicenter, phase 3 trials showed a decreased incidence of both acute and chronic GVHD, with-out increases in relapse or nonrelapse-related death, when the pan T-cell depleting reagent rab-bit antithymocyte globulin was added to standard prophylaxis.78,79  The action of the most frequently used immunosuppressive medications is summa-rized in Figure 3A. Cyclosporine and tacrolimus inhibit GVHD by preventing the activation of the nuclear factor of activated T-cell (NFAT) family of transcription factors, thereby reducing the transcription of interleukin-2 and the activation of effector T cells, albeit with a concurrent re-duction in levels of interleukin-2–dependent anti-inflammatory Tregs. In contrast to calcineurin inhibitors, rapamycin, an mTOR inhibitor, is a more potent suppressor of the expansion of con-ventional T cells than Tregs, owing to the greater dependence  of  conventional  T  cells  on  the mTOR–protein kinase B pathway.80   Cyclophos-phamide has been administered in two doses soon after transplantation to deplete highly pro-liferating alloreactive conventional T cells while helping to preserve Tregs,81  a step that has re-sulted in a relatively low incidence of GVHD, even in recipients of haploidentical transplants.82
+
+Cell-based approaches to the prevention of acute GVHD include manipulation of the donor graft. In one report, ex vivo T-cell depletion was accomplished by means of the positive selection of CD34+ cells from the donor graft.83 A promis-ing strategy for the prevention of relapse is the enrichment of gamma–delta T cells.84 The deple-tion of naive T cells alone has also been shown to reduce the incidence of chronic GVHD.85  One investigation focused on the adoptive transfer of Tregs or donor lymphocytes cultured with inter-leukin-10–treated APCs from the host to enrich for interleukin-10 and transforming growth fac-tor β–producing type 1 regulatory T cells. Clini-cally, prophylactic Treg transfer was associated with low rates of acute GVHD and adequate im-mune reconstitution.86,87  Immune reconstitution with enhanced type 1 regulatory T cells was also achieved in 5 of 12 patients when treatment was administered 1 to 2 months after allogeneic trans-plantation.88   In addition to Tregs and type 1 regulatory T cells, mesenchymal stroma cells were clinically tested for their ability to reduce the severity of GVHD. Various clinical studies showed either impressive responses or, in one random-ized clinical trial, failure to lower GVHD-related mortality,89,90 a result that may have been affected by the preparation of mesenchymal stem cells, the timing of transfer, the severity of GVHD, or organ involvement.
+Despite prophylaxis, acute GVHD still evolves and is treated first with glucocorticoids on the basis of findings from randomized, controlled trials.91  Patients with acute GVHD that is resis-tant to treatment with glucocorticoids have a dismal  long-term  prognosis,  with  an  overall survival rate of only 5 to 30%. A summary of drug therapies for acute GVHD is listed in the Supplementary Appendix. Currently, only two randomized phase 2–3 or phase 3 trials involv-ing patients with glucocorticoid-resistant acute GVHD have reported treatment results, one with the  use  of  gavilimomab  (ABX-CLB,  a  murine clonal antibody against the CD147 antigen)92 and the other with inolimomab (a murine monoclo-nal antibody against the CD25 antigen).93   The first trial showed an overall survival rate of 18 months  after  treatment  initiation,  with  a  less favorable rate in the gavilimomab group than in the antithymocyte globulin group (35% vs. 45%).92   In  the  second  trial,  inolimomab  was compared with antithymocyte globulin, with the primary objective of evaluating overall survival at
+
+
+n engl j med 377;22    nejm.org    November 30, 2017	2173
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+The  new england journal of  medicine
+
+
+AClassicApproachestoImmunosuppression
+
+
+
+Cytokines
+
+Cytokine-receptor agonists(anti– interleukin-2R,anti–
+interleukin-6R,anti–TNF-R)
+
+Growth factors
+
+
+
+T-cell receptor
+
+
+
+ITAM-containing proteins
+
+
+
+
+
+Calcineurin inhibitor (tacrolimus, cyclosporinA)
+Glucocorticoids
+
+
+C Y T O P L A S M	Calcineurin
+
+
+mTOR inhibitors (sirolimus, everolimus)
+mTOR inhibitors (e.g.,sirolimus, everolimus)
+
+
+NFAT  P	NFAT
+
+P
+
+
+mTOR
+
+
+
+
+
+G1–S1 transition
+
+Transcriptionof
+proinflammatory	chemokines
+Cytokines and
+NFAT
+genes
+
+
+Inhibitorsofcellproliferation
+Proliferation	(mycophenolatemofetil, methotrexate)
+
+
+BNewPreclinicalApproachestoImmunosuppression
+PI3KInhibition	JAKInhibition	MEKInhibition	AuroraAInhibition
+
+
+
+Cytokines
+
+
+Growth factors
+
+Interferon-γ and interleukins
+6, 11, 12, 23, and 27
+
+
+Interleukins 2, 4, 7, 9, 15, and 21
+
+
+Growth
+factors	Cytokines
+
+
+
+JAK1,2 inhibitor
+
+
+JAK2,3	CD28
+inhibitor
+
+
+
+
+
+
+PI3K
+
+JAK1	JAK2	JAK2	JAK3
+
+PI3K inhibitor
+
+
+Shc    GBR   SOS  RAS
+
+AuroraAkinase
+
+
+
+AuroraA kinase inhibitor
+
+Raf STAT	STAT P
+
+MAPK
+P
+
+
+MEK1,2 inhibitor
+
+
+MEK1,2
+
+
+ERK 1, 2
+
+
+Activation of CDK 1, 2
+
+
+Cell-cycle progression
+
+
+
+
+Transcriptionof proinflammatory genes
+
+
+Transcriptionof N U C L E U S	proinflammatory
+genes
+
+
+Cellsurvival,activation, andmigration(e.g., APCs,effectorTcells)
+
+T-cell activation
+
+
+Proliferation
+
+
+
+ROCK-1Inhibition	MLC
+P GTP Rho
+MLC P
+
+ROCK-1
+
+
+LIM ROCK-1	kinase inhibitor
+
+
+
+
+Contraction of actin fibers
+
+Cofilin
+P
+
+Cofilin P
+
+
+
+Cellactivation, motility,andhoming (e.g.,APCs,effector Tcells)
+
+
+
+Filament stabilization
+
+CDK2Inhibition
+
+
+
+Growth factors
+
+
+CDK2 inhibitor
+
+
+NKκβ
+
+Cyclin D
+
+CDK2,5
+
+E2F
+
+
+Transcription of S-phase genes
+
+
+T-cell activation
+
+
+
+
+
+
+Proliferation
+
+
+
+2174	n engl j med 377;22    nejm.org    November 30, 2017
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+Acute Graft-versus-Host Disease
+
+
+
+Figure 3 (facing page). Immunosuppressive Strategies for the Prevention or Treatment of Acute GVHD.
+Panel A shows several classic immunosuppressive ap-proaches that are in routine clinical use. Panel B shows primarily new strategies that have shown efficacy in pre-clinical models of GVHD, although some have been tested in clinical trials, including the inhibition of Janus kinase (JAK) and rho-associated protein kinase 1 (ROCK-1). The blockade of phosphatidylinositol 3-kinase (PI3K), mitogen-activated protein kinase (MEK) pro-teins 1 and 2, aurora A kinase, and cyclin-dependent kinase 2 (CDK2) has been shown to reduce acute GVHD in murine models. The different signaling pathways in which these kinases have a nonredundant function are shown. APC denotes antigen-presenting cell, MLC myo-sin light chain, mTOR mammalian target of rapamycin, NFAT nuclear factor of activated T cells, STAT signal transducer and activator of transcription, and TNF-R tumor necrosis factor receptor.
+
+
+1 year.93  The primary end point was not reached, and there was no significant between-group dif-ference in overall survival.93   The fact that both antibodies had shown promise in early-phase clinical studies that did not carry over to phase 3 trials is noteworthy, since it indicates that agents used to treat glucocorticoid-resistant acute GVHD that appear promising in phase 1–2 or phase 2 trials should be further tested in randomized, phase 3 trials. To date, no proven second-line therapy for glucocorticoid-resistant acute GVHD has been uniformly adopted or approved.
+
+Proposed Preventive
+and Therapeutic Strategies
+
+Since T-cell migration to GVHD target organs is needed to cause acute GVHD and is initiated by chemokine gradients produced within these tar-get organs as a result of tissue injury or innate cell infiltration, chemotaxis should be viewed as a central event in the pathogenesis of acute GVHD. In support of this contention is a finding from a phase 2 trial that reported that CCR5 blockade prevented GVHD of the liver and the gut before day 100.94  The fact that this trial used reduced-intensity conditioning may be relevant to its successful outcome, because the CCR5 migratory signals appear to have been less im-portant in the context of myeloablative radiation in murine models of acute GVHD. For example, CCR5 blockade was protective against GVHD in a study of nonirradiated mice, but the onset of GVHD  was  earlier  and  its  severity  worsened
+
+when CCR5-deficient T cells were transferred into heavily irradiated graft recipients.95  In a dif-ferent approach to the inhibition of migration, FTY720, a sphingosine-1-phosphate receptor an-tagonist, has been shown to reduce acute GVHD in mice by trapping T cells in lymphoid organs or reducing dendritic-cell migration.96  FTY720 is currently being studied in clinical trials investi-gating the prevention of acute GVHD.
+The fundamental role of interleukin-22 in the development of GVHD has been explored. Inter-leukin-22 is produced by type 3 innate lymphoid cells that are depleted by GVHD, resulting in crypt apoptosis, the depletion of these lymphoid cells, and loss of epithelial integrity.97-99  Exoge-nous interleukin-22 can enhance the regeneration of intestinal stem cells that express interleukin-22 receptors.97-99  In one clinical trial, the Study of IL-22 IgG2-Fc (F-652) for Subjects with Grade II– IV Lower GI aGVHD (ClinicalTrials.gov number, NCT02406651),  interleukin-22  F-652  is  being given to patients with acute GVHD of the lower intestinal tract, grades 2 through 4. Another recent approach to protecting the intestinal tract involves the direct transfer of microbial species as therapy for acute GVHD. A successful and safe application of the transplantation of fecal micro-biota through the nasoduodenal tubes of patients with  glucocorticoid-resistant  acute  GVHD  was recently shown in a small pioneer study.100 Three of four patients showed a response within 28 days after the first fecal transplantation, allow-ing for a reduction in the glucocorticoid dose of 69%.100  Although such a report is encouraging, fecal transplantation is still considered to be a highly experimental treatment approach that re-quires validation in carefully designed, prospec-tive clinical trials. Other approaches currently being explored to prevent or treat patients with acute GVHD include blockade of T-cell costimu-lation101; the use of α-GalCer, a glycolipid that expands and activates natural killer T cells and subsequently expands Treg in patients102; anti-inflammatory antibodies, proteins, or drugs that target signaling by interleukin-6103  and interleu-kin-23104; and the use of multiple cytokine-signal-ing pathway inhibitors such as histone deacety-lase inhibitors,05 proteaosome inhibitors,06 or the antiinflammatory protease inhibitor alpha-1-anti-trypsin.107  In addition, inhibitors of Janus kinase 1 and 2 have shown promising results in pre-clinical  studies108,109   and  retrospective  clinical
+1	1
+
+
+
+n engl j med 377;22    nejm.org    November 30, 2017	2175
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Koc University on November 28, 2024. For personal use only.
+No other uses without permission. Copyright © 2017 Massachusetts Medical Society. All rights reserved.
+The  new england journal of  medicine
+
+
+
+analyses110    and  are  currently  being  tested  in prospective randomized studies.
+
+Strategies Tested
+in Preclinical Studies
+
+In contrast to the approaches that have already reached clinical application, the preclinical strate-gies  being  tested  have  continued  to  focus  on targeting the signaling of multiple cytokine re-ceptors, proinflammatory pathways, and intesti-nal stem cells. New targets include kinase in-hibitors that block the serine–threonine kinase referred to as rho-associated protein kinase 1 (ROCK1),111  aurora kinase A,112  mitogen-activated protein kinase (MEK),113 and others (Fig. 3B, and the Supplementary Appendix). Strategies being investigated in murine models to improve Treg efficacy through in vivo Treg expansion include stimulation  of  the  TNF  receptor  superfamily member 25 (DR3, a death receptor) with the use of a fusion protein to ligate the receptor,114  the use of agonistic DR3 antibodies,115  and the use of TNF receptor 2 agonist.116
+The  administration  of  R-spondin-1,  a  wnt agonist, reduced murine GVHD by protecting intestinal stem cells from injury117 and by expand-ing Paneth cells,118   which secrete antimicrobial α-defensins, thereby inhibiting GVHD-associated changes to the microbiome. The protective effect of R-spondin-1 was connected to the microbial flora in the intestinal tract and partly abrogated when mice received broad-spectrum antibiotics. Although bacteria can activate innate immune cells such as neutrophils and monocytes, bacteria are also critical to the homeostasis of intestinal tissue. Indeed, the transfer of selected strains of clostridia that are known to produce the short-chain  fatty  acid  butyrate  results  in  increased levels of Tregs in the gastrointestinal tract.119 The administration of butyrate through the gas-trointestinal tract may prove to be effective in the absence of clostridia transfer, although re-peated administration would probably be need-ed during the period in which there is a risk of acute GVHD. Since Tregs can be potent suppres-sors of acute GVHD,120,121  these data link intesti-nal metabolism to GVHD. The administration of innate type 2 lymphoid cells in mice both prevented and treated acute GVHD by stimulat-ing the expansion of populations of antiinflam-matory  regulatory  cells.122    Although  the  ap-proaches described here are still in preclinical
+
+testing, they may be more effective than broad-based immunosuppressive strategies, the target-ing of individual cytokine or chemokine signals, or the preferential targeting of inflammatory or regenerative mechanisms of the gastrointestinal tract.
+Although the pharmacologic strategies that are used to overcome the inflammation related to acute GVHD are typically short-lived unless a state of deep tolerance is acquired during drug therapy, the transfer of a tolerogenic-cell popula-tion that persists in the body could lead to the achievement of long-term tolerance. The first steps  toward  this  strategy  were  made  when Tregs that were adoptively transferred into mice reduced the incidence of acute GVHD.120,121
+
+Summary and Outlook
+
+Acute GVHD remains a major, life-threatening complication of allogeneic transplantation that is associated with a high risk of death, and those patients who do survive are often in a profoundly immunodeficient state for several years. Recent developments  in  clinical  diagnosis,  improved understanding of pathophysiological features, the use of both standard and experimental options for prevention and treatment, and the use of bio-markers to tailor treatment to individual cases hold promise for the future reduction of rates of acute GVHD. The major pathophysiological path-ways that drive acute GVHD include tissue dam-age due to the conditioning regimen or infection, the body’s recognition of foreign major and mi-nor histocompatibility antigens, and altered mech-anisms of tissue repair and protection, including changes in the microbiome that cause a decline in protective microbial-derived metabolites.
+Therapeutic directions that are particularly promising according to early data from clinical trials include the use of costimulatory pathway blockade, targeted anti–interleukin-6 monoclo-nal antibodies,103 histone deacetylase inhibitors,105 kinase inhibitors108,109   and proteasome inhibi-tors,106  the antiinflammatory protease inhibitor alpha-1-antitrypsin,07 CTLA-4 antagonism,01 CCR5 blockade,94  and adoptive Treg transfer.86,87  These and other new strategies that are being devel-oped have to be tested in prospective phase 3 trials before they can become standard therapy for acute GVHD.

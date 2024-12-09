@@ -1,0 +1,159 @@
+Previous  randomized  graft-versus-host	versus   45.0%   in   the   control   group	immunosuppressive therapy (IST) was
+
+disease  (GVHD)-prophylaxis  trials  have failed to demonstrate reduced incidence and severity of chronic GVHD (cGVHD). Here we reanalyzed and updated a ran-domized phase 3 trial comparing stan-dard GVHD prophylaxis with or without pretransplantationATG-Fresenius(ATG-F) in 201 adult patients receiving myeloabla-tive conditioning before transplantation from unrelated donors. The cumulative incidence  of  extensive  cGVHD  after 3 years was 12.2% in the ATG-F group
+Introduction
+
+(P < .0001). The 3-year cumulative inci-dence of relapse and of nonrelapse mor-tality was 32.6% and 19.4% in the ATG-F group and 28.2% and 33.5% in the control group (hazard ratio [HR] 5 1.21, P 5 .47, andHR 5 0.68,P 5 .18),respectively.This nonsigniﬁcant  reduction  in  nonrelapse mortality without increased relapse risk led to an overall survival rate after 3 years of 55.2% in the ATG-F group and 43.3% in the control group (HR 5 0.84, P 5 .39,
+nonsigniﬁcant).  The  HR  for  receiving
+
+0.31  after  ATG-F  (P < .0001),  and  the 3-year probability of survival free of IST was 52.9% and 16.9% in the ATG-F ver-sus control, respectively. The addition of  ATG-F  to  standard  cyclosporine, methotrexate GVHD prophylaxis lowers the incidence and severity of cGVHD, and the risk of receiving IST without raising the relapse rate. ATG-F prophylaxis re-duces  cGVHD  morbidity.  (Blood.  2011;
+117(23):6375-6382)
+
+
+
+Allogeneic  hematopoietic  stem  cell  transplantation  (HSCT)  is increasingly used worldwide as a curative therapy for malignant and  nonmalignant  hematologic  disorders.  Chronic  graft-versus-host disease (cGVHD) is the leading cause of nontransplantation mortality and morbidity after allogeneic HSCT.1-3  cGVHD is a multiorgan  disease  resembling  autoimmune  disorders,  such  as scleroderma or systemic lupus.4,5 Its incidence and prevalence are rising because of transplantation practices known to be associated with  increased  risk  of  cGVHD.4,6   Indeed,  older  patients  now undergo HSCT, and more transplantations are being performed from unrelated donors and/or with peripheral blood stem cells instead of bone marrow. Furthermore, the reduced-intensity condi-tioning (RIC) regimens developed during recent years have also led to  higher  numbers  of  transplantations  performed  worldwide.7,8
+
+
+SubmittedJanuary10,2011;acceptedMarch30,2011.Prepublishedonlineas Blood First Edition paper,April 5, 2011; DOI 10.1182/blood-2011-01-329821.
+An Inside Blood analysis of this article appears at the front of this issue.
+The online version of this article contains a data supplement.
+
+
+BLOOD, 9 JUNE 2011 zVOLUME 117, NUMBER 23
+
+However, although the acute GVHD (aGVHD) rate appears lower after  RIC,  the  incidence  of  cGVHD  seems  to  be  unaffected.9 Altogether, cGVHD thus remains the most challenging complica-tion after allogeneic HSCT.10
+The main risk factor for developing cGVHD is the previous occurrence of aGVHD.11  Thus, transplantation physicians have focused on decreasing the rate of aGVHD to lower nonrelapse mortality  (NRM)  associated  with  both  aGVHD  and  cGVHD. However, although calcineurin inhibitors (cyclosporine or tacroli-mus) in association with methotrexate have proven to decrease the aGVHD rate in randomized studies and although new regimens, such as the association of rapamycin with tacrolimus, seem to lower the aGVHD rate in phase 2 trials, none of those prophylactic regimenshasreducedtheincidencerateandseverityofcGVHD.12-14
+
+
+A key pathophysiologic role of donor T cells in the initiation and development of cGVHD is recognized.4 Donor T cells are also main effectors of aGVHD.4  Based on these experimental data, T-cell depletion has been proposed as a tool to lower GVHD incidence and severity. However, whereas numerous phase 2 trials have been conducted,15  few randomized trials using T-cell deple-tion versus drug prophylaxis have been performed.16-20  Lessons from  all  but  one21   of  these  randomized  trials  indicated  that, although aGVHD might be reduced and the relapse rate increased, cGVHD incidence rate and severity remained basically unchanged after T-cell depletion.
+Different types of anti–T-cell globulin (ATG) preparations have been tested as part of conditioning regimens to achieve in vivo T-cell  depletion  so  as  to  prevent  GVHD.22   Anti-Jurkat  ATG-Fresenius (ATG-F), in addition to cyclosporine and methotrexate, has shown promising results in several phase 2 trials for transplan-tation  from  matched  or  mismatched  unrelated  donors.23-25   We previously reported that, adding ATG-F to standard cyclosporine, methotrexate  GVHD  prophylaxis  signiﬁcantly  reduced  severe acute in a randomized phase 3 trial.26 The cumulative incidence of aGVHD grade 3 and 4 was 11.7% in the ATG-F group versus 25.5% in the control group (adjusted hazard ratio [HR] 5 0.48, 95% conﬁdence interval [CI], 0.24-0.96, P 5 .039), and cumula-tive incidence of grade 2 and 4 was 33.0% in the ATG-F group versus 52.0% in the control group (adjusted HR 5 0.55, 95% CI, 0.35-0.85,  P 5 .008). These  results  slightly  differ  from  results published by Finke et al26 because one patient in the control group originally classiﬁed as having aGVHD grade 1 was later reviewed again and classiﬁed as grade 3. Here we present ﬁnal data and unpublished results on cGVHD with extended follow-up.
+
+
+Methods
+
+Study design
+
+We previously reported this randomized, multicenter, open-label, phase 3 trial  to  compare  standard  GVHD  prophylaxis  plus  pretransplantation ATG-F to standard GVHD prophylaxis alone (control) in adult patients receivingmyeloablativeconditioningbeforehematopoieticcelltransplanta-tion from matched unrelated donors.26 All patients received myeloablative conditioning  regimens  containing  total  body  irradiation  (8-12 Gy),  or busulfan (14-16 mg/kg orally or equivalent for intravenous administration) plus cyclophosphamide (2 3 60 mg/kg) or etoposide; or regimens contain-ing thiotepa $ 15 mg/kg or carmustine $ 300 mg/m2.All patients received cyclosporine starting on day 21 with target trough levels $ 200 ng/mL in combination with methotrexate 15 mg/m2 on day 1 and 10 mg/m2 on days 3, 6, and 11. Cyclosporine was recommended to be tapered after day 100. Patients  in  the ATG-F  group  received  additional ATG-F  at  a  dose  of 20 mg/kg on day 23, day 22, and day 21 (total dose, 60 mg/kg) before transplantation. Concerning cGVHD, primary physicians were asked to stage organ involvement by severity (none, mild, moderate, and severe) and then to grade patients according to Shulman et al as none, limited, or severe.27 Other details on regimen and patients population are summarized in the supplemental Methods (available on the Blood Web site; see the Supplemental Materials link at the top of the online article).
+All patients gave written informed consent in accordance with the Declaration of the Helsinki, and approval was given by the University Medical Center Freiburg Institutional Review Board. Project management, statistical planning and analysis, randomization, data management, and clinical monitoring were conducted by the Clinical Trials Center, University Medical Center Freiburg, Freiburg, Germany. Patients were followed until 2 years after recruitment of the last patient, as speciﬁed in the study protocol.
+Prespeciﬁed endpoints included incidence and severity of aGVHD, incidence and severity of cGVHD (cGVHD, limited/extensive and exten-
+
+
+sive), incidence of relapse, incidence of NRM (deﬁned as death without preceding relapse), disease-free survival, overall survival, infections, and adverse events. Extensive versus limited cGVHD was deﬁned according to Seattle’s group criteria.27 However, aGVHD beyond day 100 in the absence of  cGVHD  was  categorized  as  late  aGVHD  in  accordance  with  the guidelines of the National Institutes of Health.28 In case acute and chronic symptoms of GVHD were present simultaneously, the GVHD was classi-ﬁed as cGVHD.26
+
+Statistical analysis
+
+Treatment groups were compared with respect to time to cGVHD (limited/ extensive and extensive), time to cGVHD in different target organs (skin, eyes, mouth, lung, liver), time to relapse, time to NRM, overall survival time,  time  under  immunosuppressive  therapy  (IST),  and  time  to  late bacterial infections (after day 100).Additional deﬁnitions of parameters are provided in the supplemental Methods.
+Treatment groups with respect to time-to-event variables were com-pared with Cox regression models for the event-speciﬁc hazard functions using 2-sided Wald tests. Disease status (early vs advanced) and stem-cell source (bone marrow vs peripheral blood) were included for adjustment. To estimate the effect size, the HR of ATG-F versus control was calculated with 95% CI. In addition to the cumulative incidence rates29 as estimatorsof probability  of  event  over  time,  we  calculated  Cox  model-based  rates adjusted for the covariates disease status and stem-cell source.30,31
+The effect of cGVHD (limited/extensive and extensive) on relapse and NRM was investigated with a Cox regression model with cGVHD as time-dependent covariate. The HRs of cGVHD versus no cGVHD were estimated with 95% CI, and cumulative hazard functions were displayed for illustration.
+Treatment  groups  were  compared  with  respect  to  the  transition hazards between the states “alive and free of IST” and “alive under IST” using a Cox regression model, including disease status and stem-cell source for adjustment. Transition HRs were estimated with 95% CI using robust estimators of SEs.32 The probabilities of survival under IST and of survival free of IST (adding up to the overall survival probability) over time were estimated with the Aalen-Johansen estimator33 using the R package “etm.”34
+Statistical analysis was performed using the StatisticalAnalysis System, Version 9.2, and R, Version 2.11.1. The study is registered with WHO primary  registers  at  www.clinicaltrials.gov  as  #DRKS00000002  and  at https://drksneu.uniklinite-freiburg.del/drks_web as #NCT00655343.
+
+
+Results
+
+Study patients
+
+The patient population has already been described in detail.26 A total of 202 patients were randomized in 31 centers. One patient was not transplanted.Atotal of 201 patients (103ATG-F, 98 control patients)  with  median  age  of  40  years  (range,  18-60  years), transplanted between 2003 and 2007, with acute myeloid leukemia (n 5 101), myelodysplastic syndrome (n 5 10), acute lymphoid leukemia (n 5 70), chronic myeloid leukemia (n 5 17), osteomy-eloﬁbrosis (n 5 3) in early (ﬁrst complete response or myelodys-plastic syndrome-refractory anemia, n 5 107), or advanced status of disease (all other, n 5 94) were observed for a median follow-up time of 3 years (25% quartile, 2.5; 75% quartile, 3.9 years). Patient, disease, and transplantation characteristics are summarized in Table 1.
+
+cGVHD incidence and severity
+
+Of the 170 patients alive without second transplantation at day 100 (ATG-F, n 5 90; control, n 5 80), 75 patients experienced cGVHD (limited  or  extensive)  (ATG-F,  n 5 27;  control,  n 5 48),  with
+BLOOD, 9 JUNE 2011 zVOLUME 117, NUMBER 23	LONG-TERM GVHD PROPHYLAXIS	6377
+
+
+
+Table 1. Baseline patient characteristics
+
+Characteristic
+
+Patient age (median, range) , 40 y
+$ 40 y
+Donor age* (median, range) , 40 y
+$ 40 y Patient sex
+Male Female
+Patient/donor sex*
+Patient male/donor female Other
+Patient/donor CMV status Negative/negative Negative/positive Positive/negative Positive/positive
+HLA-C mismatch* Yes
+No
+Type of disease
+Acute lymphoid leukemia Acute myeloid leukemia Chronic myeloid leukemia Myelodysplastic syndrome Osteomyeloﬁbrosis
+Disease status Early Advanced
+Conditioning regimen
+Total body irradiation/cyclophosphamide
+Busulfan/cyclophosphamide
+
+We then analyzed how ATG-F prophylaxis affected cGVHD in different target organs. As shown in supplemental Table 1 and supplemental Figure 2, cumulative incidences were reduced in all main cGVHD target organs: skin (3-year cumulative incidence, 5.6% vs 27.0%;ATG-F vs control, HR 5 0.18, 95% CI, 0.07-0.48, P 5 .0006), eyes (2.2% vs 20.7%; HR 5 0.10, 95% CI, 0.02-0.45, P 5 .0025), mouth (4.4% vs 18.8%; HR 5 0.24, 95% CI, 0.08-0.74,  P 5 .013),  lung  (3.3%  vs  16.3%;  HR 5 0.17,  95%  CI, 0.05-0.61, P 5 .006), and liver (1.1% vs 21.2%; HR 5 0.05, 95% CI, 0.01-0.39, P 5 .004). The incidences in other, less involved target organs were not calculated because of few events, but crude numbers are described in a footnote to supplemental Table 1.
+
+Impact of cGVHD on relapse rate and NRM
+
+cGVHD lowered the relapse rate, resulting in an HR of 0.50 (95% CI, 0.26-0.96, P 5 .037; Figure 2A). Of note, GVHD prophylaxis with ATG-F was not associated with increased risk of relapse because the 3-year cumulative incidence of relapse was 32.6% in the ATG-F  group  and  28.2%  in  the  control  group  (shown  in supplemental Figure 3B; HR 5 1.21, 95% CI, 0.72-2.02, P 5 .47). There was a trend to an increase in NRM by extensive cGVHD, resulting in an HR of 2.06 (95% CI, 0.93-4.58, P 5 .075; Figure 2B); the 3-year cumulative incidence of NRM was 19.4% in the ATG-Fgroupand33.5%inthecontrolgroup(shownassupplemen-tal Figure 3C; HR 5 0.68, 95% CI, 0.38-1.20, P 5 .18). This still nonsigniﬁcant reduction in NRM without increased relapse risk led to an overall survival after 3 years of 55.2% in the ATG-F group and 43.3% in the control group (HR 5 0.84, 95% CI, 0.56-1.25, P 5 .39; Figure 3A), and similar disease-free survival in both groups (supplemental Figure 3A).
+
+47 patients presenting extensive cGVHD (ATG-F, n 5 11; control, n 5 36). Detailed patient presentation is provided as supplemental Table  1. The  cumulative  incidence  of  extensive  cGVHD  after 3 years was 12.2% in theATG-F group versus 45.0% in the control group (HR 5 0.20, 95% CI, 0.10-0.39, P , .0001, Figure 1A). Cumulative incidence of limited/extensive cGVHD was 30.0% and 60.0% in theATG-F versus control, respectively (HR 5 0.34, 95% CI, 0.21-0.55, P , .0001). Treatment effect was also assessed in different subgroups of patients deﬁned by prognostic factors (Figure 1B). ATG-F signiﬁcantly reduced cGVHD (deﬁned as limited/extensive or extensive alone) whatever the patient sex, patient or donor age, type of disease, disease status, stem cell source, or patient cytomegalovirus status was. Compared with the  results  shown  in  Finke  et  al26   (supplemental  Methods), Figure 1B now shows slightly different, but similar, results after a median follow-up time of 3 years. The cumulative incidence of late aGVHD after 3 years was 4.4% in the ATG-F group versus 11.3% in the control group.
+
+
+TheHRforreceivingISTwas0.31(95%CI,0.18-0.55,P , .0001), and that for being able to stop IST was 2.02 (95% CI, 1.41-2.91, P 5 .0001,  ATG-F  vs  control,  respectively).  At  3  years,  the probability of being alive and free of IST was 52.9% and 16.9%, and that of being alive and still under IST was 2.4% and 26.3% in the ATG-F versus control, respectively (Figure 3B-C). As can be seen in Figure 3, the probabilities of being alive and free of ISTand of being alive under IST add up to the probability of overall survival. Although we see only a slight survival advantage of ATG-F versus control, our results show that patients in the ATG-F group  predominantly  live  free  of  IST  whereas  patients  in  the control group predominantly live under IST.
+
+Effect ofATG-F on late bacterial infection and cause of late nonrelapse-related death
+
+We previously reported the occurrence of 4 fatal cases of post-transplantation lymphoproliferative disorders in patients treated in the ATG-F arm. In the present paper aiming to study cGVHD, we focus our attention to late bacterial infections, which are the main cause of mortality and lead to signiﬁcant morbidity in patients with cGVHD.4  We analyzed here the distribution of these infectious complications. Main bacterial species were Streptococcus, Staphy-lococcus,  Klebsiella,  and  Pseudomonas  species  (Table  2).  The main infectious locations were bloodstream (n 5 38, 17 vs 21), urinary tract (n 5 19, 15 vs 4), oral/gastrointestinal (n 5 18, 10 vs 8), and pulmonary (n 5 18, 6 vs 12; Table 2) in the ATG-F group versus control group, respectively. The 3-year cumulative inci-dence of late bacterial infection (after day 100) was 26.3% versus 38.8%  (Figure  4)  in  the  ATG-F  group  versus  control  group,
+6378	SOCIE et al	BLOOD, 9 JUNE 2011 zVOLUME 117, NUMBER 23
+´
+respectively  (HR 5 0.68,  95%  CI,  0.39-1.17,  P 5 .16).  Main causes of non–relapse-related deaths over the long-term (. 100 days) included infection (5 and 4 patients) and cGVHD (0 and 4 patients), in the ATG-F group versus control group, respectively (Table 2). Overall updated causes of death are summarized in supplemental Table 2.
+
+Prognostic factors for developing cGVHD
+
+We  ﬁnally  aimed  to  study  prognostic  factors  for  developing cGVHD  in  our  randomized  trial  (supplemental  Table  4).  Cox regression analyses of prognostic factors for developing extensive cGVHD  adjusted  for  treatment  arm  and  aGVHD  (as  a  time-dependent  factor)  revealed  2  factors  associated  with  increased extensive cGVHD risk: donor age of 40 years or more (HR 5 2.01, 95% CI, 1.08-3.72, P 5 .027) and type of disease (HRs 5 3.88, 95% CI, 1.25-12.0, 1.56, 0.76-3.20, and 2.63, 1.12-6.16 for patients
+
+
+with myelodysplastic syndrome, acute lymphoid leukemia, and chronic myeloid leukemia/osteomyeloﬁbrosis compared with acute myeloid  leukemia,  respectively;  P 5 .039;  supplemental  Table 4A). Factors found to be associated with increased cGVHD risk (limited or extensive) were type of disease (HRs 5 1.88, 95% CI, 0.75-4.73, 1.60, 0.88-2.90, and 2.78, 1.38-5.58, for patients with myelodysplastic syndrome, acute lymphoid leukemia, and chronic myeloid leukemia/osteomyeloﬁbrosis compared with acute my-eloid  leukemia,  respectively;  P 5 .023)  and  a  non–irradiation-based  conditioning  regimen  (HR 5 2.58,  95%  CI,  1.49-4.46, P 5 .0007; supplemental Table 4B).
+
+
+Discussion
+
+We present here data on cGVHD with extended follow-up (median, 3 years) on the largest randomized trial comparing standard GVHD
+BLOOD, 9 JUNE 2011 zVOLUME 117, NUMBER 23	LONG-TERM GVHD PROPHYLAXIS	6379
+
+
+
+prophylaxis versus standard prophylaxis plusATG. The addition of ATG-F to cyclosporine, methotrexate GVHD prophylaxis signiﬁ-cantly reduces the incidence and severity of cGVHD and the time to  treat  patients  with  IST  without  increasing  relapse  rate.  In addition, our data showed that not only incidence, but disease severity and organ involvement, strongly favors the use of ATG-F. These data demonstrate thatATG-F prophylaxis decreases cGVHD morbidity.
+Although ex vivo T-cell depletion has been used for decades with  the  aim  to  reduce  aGVHD,  there  have  been  very  few randomized trials.15-20 Indeed, one randomized study of hematopoi-etic cell transplantation from human leukocyte antigen-identical sibling donors already in the late 1980s demonstrated a decrease in
+
+the  incidence  of  aGVHD,  no  difference  in  cGVHD,  and  an increased  risk  of  relapse  and  rejection.16,17   Furthermore, T-cell depletion  has  been  associated  with  increased  risk  of  post-transplantation lymphoproliferative disorder.15-20 This risk of post-transplantation lymphoproliferative disorder was also found in our trial with 4 fatal cases in the ATG-F arm compared with no case in the control group. Only 2 randomized trials have been conducted on  the  use  of  ATG  or  T-cell  depletion  in  hematopoietic  cell transplantation  from  unrelated  donors.18,19  An American  trial17 compared  405  patients  receiving  bone  marrow  from  unrelated donors, 2 different in vitro T-cell depletion methods (by anti–T-cell monoclonal antibody T10B9 [MEDI-500, Medimmune] or counter ﬂow  elutriation  in  combination  with  in  vivo  use  of  equine
+6380	SOCIE et al	BLOOD, 9 JUNE 2011 zVOLUME 117, NUMBER 23
+´
+
+antithymocyte globulin [Pharmacia/Pﬁzer] and cyclosporine to a control group receiving cyclosporine and short-course methotrex-ate alone). The experimental group presented less severe aGVHD, butT-cell depletion had no inﬂuence on the incidence of cGVHD or survival.17  In the Italian sequential trial19,21  testing in vivo T-cell depletion,  a  total  of  109  patients  received  bone  marrow  from unrelated donors and standard GVHD prophylaxis with or without antithymocyte globulin (Thymoglobulin, Genzyme).The reduction in GVHD was accompanied by a higher risk for lethal infections resulting  in  no  improvement  in  survival.  Extensive  cGVHD developed  more  frequently  in  patients  not  given ATG.20   In  a retrospective, nonrandomized analysis, the French registry35 most recently assessed the impact of rabbit ATG, incorporated within a standard  myeloablative  conditioning  regimen  before  allogeneic stem cell transplantation using unrelated donors. In their retrospec-tive series of 120 patients with leukemia, 69 did not receive ATG,  whereas  51  patients  did.  With  a  median  follow-up  of
+
+30.3 months, the cumulative incidence of extensive cGVHD was signiﬁcantly lower in theATG group compared with the “no-ATG” group  (4%  vs  32%,  respectively;  P 5 .0017).  In  multivariate analysis, the absence of ATG use was the strongest parameter associated with increased risk of extensive cGVHD (RR 5 7.14; 95% CI, 1.7-33.3, P 5 .008). At 2 years, the probability of NRM, relapse, and overall and leukemia-free survivals did not signiﬁ-cantly differ between the “no-ATG” and “ATG” groups. Thus, our trial deﬁnitively proves results suggested by the French retrospec-tive analysis, as well as data suggested by the Italian sequential trials on a large patient population mainly receiving peripheral blood stem cells.
+cGVHD is associated with a strong antileukemic effect,4-6  as conﬁrmed here because cGVHD was associated with a nearly 50% decrease in relapse risk. However, in contrast with other reports using T-cell depletion showing increased propensity to relapse,15 GVHD prophylaxis withATG-F was not associated with increased
+
+risk of relapse. However, the study was not powered to detect differences in relapse risk among the 2 groups.
+In addition to this graft-versus-leukemia effect, there was a trend that extensive cGVHD also raised NRM in our cohort, as reported  by  others.1,3,10,36-39   However,  while  decreasing  3-year NRM incidence by . 10% (on an absolute scale), ATG-F did not lead to a large improvement in overall survival on a relative scale (ATG-F 55.2% vs control 43.3%). Improved supportive care and antimicrobial therapies of patients with cGVHD40  most probably explain why decreased incidence and severity of cGVHD in the ATG-F arm do not yet translate to improved survival. Similarly, although the risk of severe bacterial infections was higher in the control group, as expected from cGVHD rates, neither the late bacterial infection rate nor bacterial-related deaths signiﬁcantly differs between the 2 treatment groups.
+Finally, as discussed elsewhere, the most stringent proof of any prophylactic or treatment efﬁcacy in cGVHD is to compare its ability to provide quality-of-life-improved survival without immu-nosuppressive  drug  therapy  between  2  treatment  groups.37,41-44 Indeed,  the  cGVHD  course  is  typiﬁed  by  ﬂare  and  remission episodes,  and  the  withdrawal  of  any  drugs  to  attain  immune tolerance is the ultimate goal in treating this disease. Our data demonstrate that patients in the ATG-F group had a 100% better chance than the controls of being able to stop IST. At 3 years, the ATG-F group’s probability of being alive and free of IST was 3-fold higher than that of the control group.
+Prognostic factors for developing cGVHD after adjusting for previous aGVHD and ATG-F treatment showed that patients with acute myelogenous leukemia had a slightly lower risk of develop-ing cGVHD and that older donor’s age and the use of a non– irradiation-based conditioning regimen raised the risk. We have no formal  explanations  for  those  results.  These  results  must  be conﬁrmed because multiple comparisons were performed.
+However, it needs to be made very clear that (1) these data do not necessarily apply to other brands of ATG, and (2) that they do apply only to ablative HSCT. Furthermore, in a recent retrospective Center for International Blood and Marrow Transplant Research analysis of RIC HSCT using, in a nonrandomized setting, other ATG brands showed worse outcomes withATG.45 Thus, our results may not apply to RIC HSCT. Finally, most of the stem cell products used in our study were grafts from peripheral blood, although there
+
+were minorities of marrow infusions: thus, our data may not apply to marrow grafts in which there is a lower incidence of cGVHD.
+In  conclusion,  the  addition  of  ATG-F  to  standard  GVHD prophylaxis  signiﬁcantly  reduces  the  incidence,  severity,  and morbidity of cGVHD and the risk of receiving IST. It does not increase the risk of relapse and may ultimately provide a long-term survival advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

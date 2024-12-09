@@ -1,0 +1,735 @@
+﻿Chronic Graft-versus-Host Disease
+
+ABSTRACT
+Chronic graft-versus-host disease (GVHD) remains a vexing and dangerous complication of allogeneic stem cell transplantation. Mild forms of chronic GVHD are often manageable with local or low-dose systemic immunosuppression and do not affect long-term survival. In contrast, more severe forms of chronic GVHD require intensive medical management and adversely affect survival. This report reviews current concepts of the pathogenesis, clinical risk factors, classiﬁcation systems, organ manifestations, and available treatments for chronic GVHD. It also provides a comprehensive listing of the published clinical trials aimed at prevention and primary treatment of chronic GVHD.
+© 2003 American Society for Blood and Marrow Transplantation
+
+
+KEY WORDS
+Chronic graft-versus-host disease    ●	Allogeneic stem cell transplantation
+
+
+BACKGROUND
+
+Chronic graft-versus-host disease (GVHD) is one of the most common and clinically signiﬁcant prob-lems affecting long-term survivors of allogeneic he-matopoietic cell transplantation (HCT). Up to 60% of patients   receiving   HLA-identical   sibling   marrow grafts and 70% of patients receiving alternative donor marrow grafts who survive beyond day 100 develop chronic GVHD [1-3]. Chronic GVHD is the leading cause of nonrelapse mortality more than 2 years after allogeneic  transplantation  [4].  In  addition,  chronic GVHD is associated with decreased quality of life, impaired functional status, and ongoing need for im-munosuppressive medications [4-7]. The incidence of chronic GVHD is increasing (Figure 1) because of several  factors:  expansion  of  the  donor  population beyond HLA-identical siblings, older recipient age, use of peripheral blood cells as the graft source, and infusion of donor lymphocytes for treatment of recur-rent malignancy after HCT. Although prevention and treatment of acute GVHD have improved during the past 3 decades, similar progress in chronic GVHD has remained elusive.
+
+PATHOGENESIS
+
+Compared with the advances in our understanding of  acute  GVHD,  the  pathophysiology  of  chronic GVHD remains poorly deﬁned. Clinical studies of chronic GVHD in humans have been difﬁcult, in part because of the delayed onset relative to other trans-plant complications of interest. Several animal models of chronic GVHD have been reported [8-15]. In one murine  model  (parent  into  F1  hybrid)  that  more closely  resembles  lupus  (due  to  renal  involvement) than  chronic  GVHD,  extensive  antibody-mediated damage appears to be associated solely with a Th2 response [16]. In contrast, both Th1 and Th2 cells have been implicated in humans [17-20]. In another murine  model  of  sclerodermatous  chronic  GVHD, chemokines and donor mononuclear cells appear to play important roles, and administration of neutraliz-ing   antibody   against   transforming   growth   factor (TGF)-b   prevented   the   development   of   chronic GVHD [15]. In this model, T cells and donor-derived monocyte/macrophages expressing markers of antigen presentation are the predominant cells inﬁltrating the skin  early  in  the  disease.  Up-regulation  of  TGF-b expression and several chemokines are temporally related to increased collagen messenger RNA synthesis, skin thickening, and pulmonary ﬁbrosis.
+
+In humans, T-lymphocyte imbalances, from over-expansion of pathological subsets and/or loss of ap-propriate  regulation,  have  long  been  suspected  of causing chronic GVHD. The etiologic contribution of alloreactive T cells to the development of chronic GVHD is supported by the observation that T-cell depletion is associated with less chronic GVHD in HLA-matched  sibling  marrow  transplantation  [21], whereas peripheral blood stem cell (PBSC) transplan-tation [22-29] and donor lymphocyte infusions (DLI) are associated with higher rates of chronic GVHD [30,31]. Autoreactive T cells have been implicated in the pathogenesis of cyclosporine-induced autologous GVHD, which clinically resembles allogeneic chronic GVHD but is mediated by autoreactive T cells that recognize the CLIP region of major histocompatibil-ity  complex  class  II  molecules  [32].  Cyclosporine (CSA) inhibits thymic-dependent clonal deletion of autoreactive T cells, thereby paradoxically disrupting self-tolerance.  The  effector  cells  have  broad-based recognition of tissues, and the clinical manifestations, when fully evolved, are identical to chronic GVHD. It is speculated that autoreactive T cells may arise in the allogeneic setting because of thymic injury from acute GVHD (or from other causes) that allows the survival of  autoreactive  clones  rather  than  their  deletion [33,34].  These  autoreactive  T  lymphocytes  can  act with interferon (IFN) to produce the increased colla-gen  deposition  seen  histopathologically  in  chronic GVHD [35].
+Given  the  similarities  between  chronic  GVHD and autoantibody-associated diseases, several studies have attempted to link B cells and humoral immunity with chronic GVHD. However, a study of 53 long-term survivors failed to ﬁnd an association between classic autoantibodies and chronic GVHD [36]. Some antigens, such as promyelocytic leukemia (PML) gene product, are expressed aberrantly in chronic GVHD lesional tissue but not in uninvolved skin or normal controls, although circulating antibodies to PML have not been detected [37]. Some reports link cytomega-lovirus (CMV) infection with chronic GVHD. CD13 is aberrantly expressed in CMV-infected individuals, and antibodies to CD13 have been associated with chronic GVHD [38,39].
+Cytokine dysregulation also has been implicated through observations that high levels of interleukin (IL)-1b,  IL-6,  IFNg,  and  tumor  necrosis  factor (TNF)-a  are  associated  with  more  severe  chronic GVHD [40]. High serum TGF-b also was associated with  chronic  GVHD  independent  of  platelet  and white blood cell counts [41], and antibodies to TGF-b prevented	the	development	of	sclerodermatous GVHD in a murine model [15]. Patients with chronic GVHD have low levels of IL-10, an anti-inﬂamma-tory cytokine thought to suppress IFN-g and immu-noglobulin (Ig) production, compared with patients without chronic GVHD [42].
+Finally,  the  clinical  manifestations  of  chronic GVHD closely resemble those of several well-recog-nized   autoimmune   syndromes,   suggesting   similar pathophysiology. Scleroderma, which has cutaneous manifestations   similar   to   late   ﬁbrosing   chronic GVHD,  occurs  predominantly  in  women  and  has been associated with an increased incidence of circu-lating fetal male cells, suggesting that persistent mi-crochimerism may play a role [43,44].
+
+CLINICAL RISK FACTORS
+
+Table 1 presents the patient, donor/graft, and pro-cedural  factors  that  have  been  associated  with  the development of chronic GVHD. Consistently identi-ﬁed  clinical  risk  factors  include  older  patient  age, female donors and male patients, certain diagnoses (chronic myeloid leukemia and aplastic anemia), use of mismatched or unrelated donors, infusion of donor lymphocytes, use of PBSCs instead of bone marrow, lack  of  T-cell  depletion,  and  grade  II  to  IV  acute GVHD  [21,45-50].  Although  acute  GVHD  is  the most   powerful   predictor   of   subsequent   chronic GVHD,  de  novo  chronic  GVHD  (no  prior  acute GVHD) is associated with similar patient and donor risk factors [47,51]. More controversial risk factors for chronic GVHD include CMV seropositivity, CMV reactivation,   splenectomy,   steroid   prophylaxis   for acute GVHD, ethnic difference between donor and patient,  high  CD341  cell  count  in  the  graft,  and absence  of  methotrexate  in  PBSC  transplantation [21,46,50,52-54].  Early  reports  of  umbilical  blood stem  cell  grafting  suggest  lower  rates  of  chronic GVHD [55].
+
+Chronic GVHD Review
+
+Peripheral blood progenitor cells have been asso-ciated with an increased incidence of chronic GVHD (50%-90%) in most studies of HLA-matched sibling transplantation [22-27,29]. Cutler et al. performed a meta-analysis using data from 16 studies and reported a  pooled  relative  risk  (RR)  for  extensive  chronic GVHD (RR 1.66; 95% conﬁdence interval, 1.35-2.05; P , .001) compared with bone marrow [28]. Recent data  suggest  that  high  CD341  counts  may  be  the most important factor driving this observation, be-cause chronic GVHD did not correlate with CD31 and CD141 counts [54]. The use of granulocyte col-ony-stimulating factor (G-CSF) during stem cell col-lection also has been suspected of increasing chronic GVHD after PBSC transplantations because G-CSF is known to preferentially shift T-helper cells to a Th2 phenotype [56]. However, a trial performed by Mor-ton et al. suggests that donor treatment per se with G-CSF is not the cause of the higher chronic GVHD incidence.  They  randomized  HLA-matched  sibling donors  to  marrow  or  PBSC  collection  after  both groups received G-CSF stimulation (N 5 57). Rates of  chronic  GVHD  were  higher  in  the  PBSC  arm (80% versus 22%; P , .02), although overall survival was the same [29]. In the unrelated donor marrow setting, patients have a higher risk for chronic GVHD than HLA-matched siblings [3], but it is not clear whether PBSCs further elevate this risk [57,58].
+Finally, several factors have been studied and not found to be associated with chronic GVHD. These include type of myeloablative conditioning regimen, type of calcineurin inhibitor used for acute GVHD prophylaxis, and whether 3 or 4 doses of methotrexate are administered. The reported incidence of chronic GVHD is similar for busulfan/cyclophosphamide and total body irradiation/cyclosphosphamide preparative regimens [59]. Use of either tacrolimus or CSA pro-phylaxis resulted in similar rates of chronic GVHD, although there was less extensive chronic GVHD in the  tacrolimus  group  [60].  Failure  to  give  day  11 methotrexate  was  not  shown  to  inﬂuence  rates  of chronic  GVHD,  although  only  a  small  number  of patients was studied [61,62].
+
+CLASSIFICATION OF CHRONIC GVHD
+
+Chronic GVHD can be classiﬁed according to the type of onset, need for systemic immunosuppressive therapy, or mortality risk. The majority of patients with chronic GVHD have had prior acute GVHD. Their disease may evolve directly from acute GVHD (progressive), which has a grim prognosis, or may fol-low a period of resolution (quiescent, or interrupted) GVHD, with an intermediate prognosis. Patients may develop chronic GVHD with no history of prior acute GVHD (“de novo”), and these patients have a rela-tively good prognosis. Based on data from the Inter-national Bone Marrow Transplant Registry (IBMTR), the distribution of chronic GVHD onset for HLA-matched siblings is 20% to 30% progressive, 30% to 40% interrupted, and 35% de novo. Data from the National Marrow Donor Program for unrelated do-nor recipients, where the incidence of acute GVHD is higher, shows the spectrum of onset as 19% progres-sive, 69% interrupted, and 12% de novo onset [3].
+The most commonly used staging system is the “limited/extensive” classiﬁcation proposed by the Se-attle Group in 1980 based on a retrospective clinical and pathological review of 20 patients with chronic GVHD. In this group, mortality correlated best with Karnofsky performance status [63]. Localized skin in-volvement with or without hepatic dysfunction (lim-ited disease) was associated with less severe disease and fewer  infections.  Generalized  skin  involvement  or limited  disease  plus  eye  involvement,  oral  involve-ment, hepatic dysfunction with abnormal liver histol-ogy, or involvement of any other target organ was classiﬁed as extensive disease and was associated with more  frequent  infections. 
+
+
+Extensive One of:
+
+Generalized skin involvement Localized skin involvement and/or
+hepatic dysfunction due to chronic GVHD, plus:
+Liver histology showing chronic aggressive hepatitis, bridging necrosis, or cirrhosis, or:
+Involvement of eye (Schirmer’s test with <5 mm wetting), or:
+Involvement of minor salivary glands or oral mucosa demonstrated on labial biopsy, or:
+Involvement of any other target organ
+
+1. Oral abnormalities consistent with chronic GVHD, a positive skin or lip biopsy, and no other manifestations of chronic GVHD
+2. Mild liver test abnormalities (alkaline phosphatase <2 3 upper limit of normal, AST or ALT <3 3 upper limit of normal, and total bilirubin <1.6) with positive skin or lip biopsy, and no other manifestations of chronic GVHD
+3. Less than 6 papulosquamous plaques, macular-papular or lichenoid rash involving <20% of BSA, dyspigmentation involving <20% BSA, or erythema involving <50% BSA, positive skin biopsy, and no other manifestations of chronic GVHD
+4. Ocular sicca (Schirmer’s test <5 mm with no more than minimal ocular symptoms), positive skin or lip biopsy, and no other manifestations of chronic GVHD
+5. Vaginal or vulvar abnormalities with positive biopsy, and no other manifestations of chronic GVHD
+Clinical extensive
+1. Involvement of 2 or more organs with symptoms or signs of chronic GVHD, with biopsy documentation of chronic GVHD in any organ
+2. Karnofsky or Lansky Clinical Performance scores <60%, >15% weight loss, and recurrent infections not due to other causes, with biopsy documentation of chronic GVHD in any organ
+3. Skin involvement more extensive than deﬁned for clinical limited chronic GVHD, conﬁrmed by biopsy
+4. Scleroderma or morphea
+5. Onycholysis or onychodystrophy thought to represent chronic GVHD, with documentation of chronic GVHD in any organ
+6. Decreased range of motion in wrist or ankle extension due to fasciitis caused by chronic GVHD
+7. Contractures thought to represent chronic GVHD 8. Bronchiolitis obliterans not due to other causes
+9. Positive liver biopsy; or abnormal liver function tests not due to other causes with alkaline phosphatase >2 3 upper limit of normal, AST or ALT >3 3 upper limit of normal, or total bilirubin >1.6, and documentation of chronic GVHD in any organ
+10. Positive upper or lower GI biopsy
+11. Fasciitis or serositis thought to represent chronic GVHD and not due to other causes
+
+*Provided by Mary E.D. Flowers and Paul J. Martin, Fred Hutchinson Cancer Research Center. AST indicates aspartate aminotransferase; ALT, alanine aminotransferase; BSA, body surface area.
+
+
+
+from HLA-matched sibling recipients reported to the IBMTR suggests that transplantation centers are not applying the formal deﬁnitions accurately, perhaps in part because many patients are unclassiﬁable by the strict organ criteria [3]. The Seattle Group has devel-oped revised clinical criteria for limited and extensive chronic GVHD to clarify ambiguities of the original deﬁnition (Table 2). In the revised classiﬁcation, pro-longed treatment with systemic immunosuppression is indicated for patients with clinically extensive chronic GVHD or anyone with high-risk features (ie, platelets count ,100 3 109/L, progressive onset, or receipt of treatment with corticosteroids at the time of the di-agnosis of chronic GVHD).
+Several  investigators  have  tried  to  develop  im-proved  prognostic  grading  scales  based  on  larger numbers of observed patients and with survival as the primary endpoint. Table 3 lists the scales that have been proposed thus far [3,63-67]. In aggregate these studies show that thrombocytopenia (platelet count ,100 3 109/L), progressive onset, skin involvement, poor performance status, and gastrointestinal (GI) in-
+
+volvement portend a poorer prognosis. The Hopkins model stratiﬁes patients into risk categories according to whether or not extensive skin involvement, throm-bocytopenia,  and  progressive-type  onset  is  present [66]. This model was validated using data from 1108 patients from the IBMTR (n 5 711), Fred Hutchin-son Cancer Center (n 5 188), University of Nebraska (n 5  60), and University of Minnesota (n 5  149). Despite signiﬁcant heterogeneity of the data, for each data  set  the  proposed  grading  system  was  able  to separate patients into 3 groups with different survival outcomes (personal communication, G. Akpek, De-cember 2002).
+The IBMTR also has reported a grading system predictive for survival developed by using data from 1827  HLA-matched  sibling  marrow  recipients  re-ported  to  the  registry  [3].  Karnofsky  performance score, diarrhea, weight loss, and cutaneous and oral involvement were found to be independent prognostic variables, from which a grading scheme was gener-ated. This scheme, the limited/extensive classiﬁcation system, and a classiﬁcation based on clinical impres-
+
+
+Other Poor Prognostic Factors
+
+“Extensive,” poor Karnofsky performance status, recurrent infections, active chronic GVHD after 2 mo of therapy
+
+
+On steroids at onset, IFN-a >6 mo duration before transplantation (CML)
+Karnofsky score when primary therapy fails
+Karnofsky score, diarrhea, weight loss, lack of oral involvement
+GI involvement, no response at 6 months
+
+Reprinted with permission from Lee et al. Chronic graft-versus-host disease. In: Atkinson et al. Clinical Bone Marrow and Blood Stem Cell Transplantation. 3rd ed. Cambridge, UK: Cambridge University Press [in press].
+
+
+sion of overall chronic GVHD severity (mild, moder-ate, or severe) was assessed in a parallel analyses of 1092 HLA-matched sibling transplant recipients from the IBMTR and 553 recipients of unrelated donor marrow from the National Marrow Donor Program. Presence of chronic GVHD was associated with fewer relapses  (RR,  0.5-0.6)  but  more  treatment-related mortality (RR, 1.8-2.8) in the 3 analyses. No grading scheme correlated chronic GVHD severity with re-lapse rates, but all schemes predicted treatment-re-lated mortality. Survival and disease-free survival of the  most  favorable  chronic  GVHD  group  in  each scheme were similar, or better, than those of patients
+
+without chronic GVHD. Notably, an overall clinical summary scale of mild, moderate, or severe chronic GVHD was the best predictor of survival based on Akaike’s information criterion, a qualitative biostatis-tical method of comparing prognostic schemes [3]. However, formal deﬁnitions for the mild, moderate, and severe categories have not been established [68] (Figure 2).
+Comparison of the Hopkins and IBMTR reports illustrates the advantages and disadvantages of single-institution versus registry studies. The Hopkins model has a smaller sample size (N 5 151) and was based on the consistent diagnostic criteria of a single group of clinicians, but may suffer from referral bias. In con-trast,  the  IBMTR  model  is  based  on  reports  from many centers but is limited by the expertise of those evaluating the patients and the amount of detail that can be captured on speciﬁc chronic GVHD manifes-tations.
+
+
+CLINICAL MANIFESTATIONS
+
+Manifestations of “acute” GVHD without patho-gnomonic features of chronic GVHD can begin after day 100 posttransplantation, whereas classic “chronic” GVHD can be present before day 100. For this rea-son,   the   distinction   between   acute   and   chronic GVHD cannot be made solely according to the time interval  from  transplantation.  The  median  time  of diagnosis of chronic GVHD is 4.5 months after HLA-identical sibling transplantation and 4 months after unrelated donor transplantation [3], with only 5% of cases diagnosed after 1 year. The diagnosis of chronic GVHD requires at least 1 manifestation that is dis-tinctive for chronic GVHD (eg, lichenoid-oral or vag-inal  ﬁndings,  ocular  sicca,  skin  dyspigmentation, scleroderma, bronchiolitis obliterans, and esophageal web  formation).  Whenever  possible,  biopsies  and other diagnostic tests should be pursued to rule out alternative etiologies, such as infections, and to con-ﬁrm  the  diagnosis  of  chronic  GVHD.  In  HLA-matched marrow grafting with primarily methotrex-ate-based prophylaxis, skin (65%-80%), mouth (48%-72%),	liver	(40%-73%),	and	eye	(18%-47%) involvement are most commonly reported. Other less frequently  involved  organs  include  GI  tract/weight loss (16%-26%), lung (10%-15%), esophagus (6%-8%), and joints (2%-12%) [3,21,69]. Flowers et al. have  reported  that  PBSC  recipients  have  a  similar time to onset and spectrum of organ involvement [70]. Table 4 outlines the signs, symptoms, and histopatho-logic ﬁndings associated with chronic GVHD.
+
+Skin and Dermal Appendages
+Chronic GVHD often presents with a lichenoid eruption, an erythematous, papular rash that resem-bles lichen planus and has no typical distribution pat-tern. Sclerodermatous GVHD may involve the dermis and/or the muscular fascia and it clinically resembles systemic sclerosis. The skin is thickened, tight, and fragile with very poor wound-healing capacity. Alter-ation  in  pigmentation,  either  hypopigmentation  or hyperpigmentation, may occur. In severe cases, the skin  may  blister  from  poor  lymphatic  drainage  or ulcerate  from  minor  trauma.  Because  the  sclerosis histologically affects the dermis, hair loss and destruc-tion  of  the  sweat  glands  are  common.  In  cases  of severe  ulceration,  skin  grafts  from  the  donor  have been successful, and the tissue remains healthy and
+
+uninvolved with chronic GVHD [71,72]. Serial assess-ments should document the extent, type, and distri-bution of skin involvement.
+Fingernails   and   toenails   may   be   affected   by chronic  GVHD.  Nails  develop  vertical  ridges  and cracking and are very fragile. Nail problems may per-sist even after skin changes have resolved. Hair loss in areas of affected skin also may persist after treatment, although recovery of hair is frequently a sign of re-covery. Brittle hair often precedes alopecia. Premature graying of hair, eyebrows, and eyelashes may occur with chronic GVHD, even in children.
+
+
+Eyes
+
+Ocular  GVHD  often  presents  with  irritation, burning, dry eyes, or photophobia from irreversible destruction of the lacrimal glands. Excessive tearing can be a sign of ocular sicca. Conjunctival GVHD is a rare manifestation of severe chronic GVHD and can be quite refractory to treatment. Protective eyeglasses and  sunglasses,  frequent  lubrication,  application  of ophthalmic ointment at night, and punctal plugs or cauterization can help symptomatically and prevent further damage. Moisture chamber eyeglasses (a pros-thetic device coupled to the eyeglasses) can signiﬁ-cantly relieve the symptoms of dry eyes [73]. Schirm-er’s tests can be performed in clinic and are useful to follow chronic GVHD.
+
+
+Mouth
+Oral GVHD usually starts with xerostomia and/or food  sensitivity.  More  advanced  disease  may  cause odynophagia due to extension of damage, although a rare patient will have esophageal involvement without oral  disease.  Physical  examination  in  mild  disease shows erythema with white plaques that may be con-fused with thrush or herpetic infections, whereas ex-tensive lichenoid or hyperkeratotic changes are found in  advanced  disease  [74].  Pseudomembranes,  large, nonhealing  ulcers,  may  be  found  anywhere  in  the mouth including tongue and palate but are often along the bite lines. Both major and minor salivary dysfunc-tion occurs [75]. Local infections may cause changes in  symptoms  without  changes  in  physical  ﬁndings. Secondary infections with viruses (especially herpes simplex and human papilloma virus) and yeasts are almost  universal  and  patients  usually  require  treat-ment as long as their oral disease persists and/or im-munosuppression is prescribed. Fibrosis causing de-creased   oral   range   of   motion   is   a   very   late manifestation. Patients with chronic GVHD under-going dental work should receive antibiotic prophy-laxis.
+
+
+Hyper- and hypopigmentation, lichen planus (violaceous ﬂat-topped papules), poikiloderma (atrophy, telangectasias, dyspigmentation), cutaneous ulcers, scleroderma (thickening due to collagen deposition, may cause decreased range of motion and contractures), ichthyosis
+
+Onchodystrophy, alopecia, loss of sweat glands
+Elevated alkaline phosphatase, transaminases, bilirubin
+
+
+Lichen planus, erythema, ulcers, xerostomia, dental caries, ﬁbrosis, decreased salivary ﬂow
+
+Keratoconjunctivitis sicca, corneal ulcerations, Schirmer’s test with <5 mm wetting at 5 min
+Esophageal web, desquamation, ulcerations, strictures, submucosal ﬁbrosis, abnormal motility
+Fibrosis, malabsorption
+
+
+Obstructive more than restrictive abnormalities on pulmonary function testing, BO, pneumothoraces, bronchiectasis, pseudomonal colonization, pulmonary inﬁltrates; air trapping on high resolution CAT scan of chest
+Polymyositis, arthritis, fasciitis
+
+Pericardial, peritoneal, and pleural effusions
+
+Entrapment of nerves, peripheral neuropathy, myasthenia gravis
+Cystitis, phimosis
+Erythema, lichen-planus like, sicca, strictures, stenosis, ulcers
+Thrombocytopenia, neutropenia, eosinophilia, hemolytic anemia Lymphoid hypocellularity, hyper-
+or hypogammaglobulinemia
+
+Symptoms
+
+Pruritis, lack of ﬂexibility
+
+
+
+
+
+
+
+
+
+Heat sensitivity
+
+Pruritis
+
+
+
+
+
+
+Food sensitivity, pain, dry mouth, decreased oral range of motion from ﬁbrosis
+
+
+Dry eyes, photophobia, pain
+
+Odynophagia, dysphagia, heartburn, retrosternal pain
+
+Diarrhea, nausea, anorexia, abdominal pain, weight loss
+Dyspnea, nonproductive cough, wheezing
+
+
+
+
+
+Arthralgias, myalgias, weakness
+Clinical syndromes of cardiac tamponade, ascites, dyspnea
+Pain, paresthesias
+
+Pain, hematuria Pain, dyspareunia,
+difﬁculty voiding
+
+
+Frequent infections, especially sinus, upper respiratory tract
+
+Histopathology
+
+Lichenoid: Hyperkeratosis, focal hypergranulosis, acanthosis, dyskeratotic keratinocytes, vacuolar degeneration, colloid bodies, perivascular and periadnexal lymphoplasmacellular inﬁltrate
+Poikiloderma: epidermal atrophy, loss of rete ridges
+Scleroderma: epidermal atrophy, dermal ﬁbrosis, less inﬂammation than lichenoid lesion, adnexal structures destroyed
+Differential diagnosis: drug reaction, eczema Destruction and ﬁbrosis of cutaneous
+appendages
+Small bile duct atypia and damage with subsequent necrosis and drop-out, moderate lymphocytic inﬁltrate, cholestasis and ballooning
+Differential diagnosis: drug toxicity (cholestasis, inﬂammation), veno-occlusive disease, viral infections, gallstones, and inﬁltrative processes
+Mucosal atrophy, lymphoplasmacytic inﬂammation, increased mucopolysaccharides, ﬁbrosis and destruction of minor salivary glands
+Differential diagnosis: Herpes virus infection, Sjogren’s syndrome
+Differential diagnosis: postradiation xerophthalmia, Sjogren’s syndrome
+
+Differential diagnosis: reﬂux esophagitis, infection
+
+
+Differential diagnosis: irritable or inﬂammatory bowel syndrome, infection
+
+BO with granulation tissue plugs and ﬁbrosis obliterating small airways, interstitial pneumonitis
+
+Usually transudative
+
+
+Gastrointestinal Tract
+Esophageal symptoms of dysphagia and odyno-phagia result from desquamation, web and stricture formation, and reﬂux esophagitis. Periodic endoscopic dilations and antacid medications may help symptom-atically. Stomach and small intestinal pathology are relatively rare. However, many patients have anorexia, nausea,  lower  abdominal  pain,  cramping,  and  diar-rhea.  Pancreatic  insufﬁciency  without  characteristic laboratory and radiographic studies may occur, and this syndrome responds to enzyme supplementation [76]. Weight loss is common and is probably multi-factorial from decreased oral intake, poor absorption, increased  resting  energy  expenditures  [77],  and  in-creased TNF levels. Degree of weight loss should be followed up closely so appropriate interventions can be  instituted.  Hopkins  reviewed  93  patients  with chronic GVHD and reported malnutrition in 43% of patients and severe malnutrition with body mass index ,18.5 in 14% of patients[78]. Symptoms often im-prove with successful treatment of GVHD.
+Many  patients  with  chronic  GVHD  have  GI symptoms  that  are  not  necessarily  related  to  their chronic GVHD. When the Hopkins group reviewed 40 patients with chronic GVHD who underwent en-doscopy for GI symptoms, more than half (59%) were found to have ongoing acute GVHD and an additional 27% had both acute and chronic GVHD when biopsy specimens were obtained. Chronic GVHD alone was found in only 14% of cases. Other causes of GI symp-toms  included  infection,  drug  side  effects,  motility disorders, and malabsorption. Patients with ongoing acute GI GVHD had poor survival.
+
+Liver
+Hepatic disease typically presents as cholestasis, with laboratory evaluation showing increased alkaline phosphatase levels and/or increased serum bilirubin levels. Occasionally, chronic GVHD of the liver pre-sents as a picture of acute hepatitis [79]. Liver biopsy is required to conﬁrm the diagnosis and is especially important  in  patients  with  no  other  symptoms  of chronic GVHD because viral infection and drug tox-icity  may  mimic  GVHD.  Isolated  hepatic  chronic GVHD may be increasing with the use of DLI [80]. Liver transplantation has been successfully performed for end-stage hepatic chronic GVHD [81].
+
+Respiratory Tract
+Bronchiolitis obliterans (BO) is a late manifesta-tion of chronic GVHD. Patients typically present with a cough, wheezing, dyspnea on exertion, or history of recurrent bronchitis or sinusitis [82]. Pulmonary func-tion testing shows new obstructive lung defects de-
+ﬁned by an FEV1 ,80% of predicted or a decrease of FEV1/FVC by ,10% within a period of less than 1
+
+year, not explained by infection, asthma, or recurrent aspiration from the sinuses or from gastroesophageal reﬂux. In the absence of chronic GVHD in any other organ, the diagnosis of BO requires negative micro-biological tests from bronchoalveolar lavage, evidence of air trapping by high-resolution end-expiratory and end-inspiratory  computer-assisted  tomography  scan of the lungs, or conﬁrmation using lung biopsy show-ing granulation tissue and obliteration of the small airways. Although low Ig levels and chronic GVHD are associated with BO, a randomized trial of prophy-lactic Ig replacement did not decrease the incidence of BO [83]. Patients with BO have minimal response to therapy and a very poor prognosis; serial pulmonary function tests can quantify the degree of respiratory compromise.	Bronchiolitis	obliterans	organizing pneumonia not caused by infections also may repre-sent a manifestation of chronic GVHD. Patients with bronchiolitis obliterans organizing pneumonia should be  carefully  evaluated  for  the  presence  of  chronic GVHD manifestation in other organs. Successful lung transplantation has been performed in a small number of patients with end-stage pulmonary chronic GVHD [84].  Outside  of  HCT,  an  underlying  autoimmune process is implicated by the association of BO with lung transplantation, collagen-vascular diseases, and viral infections [85,86].
+Even without BO, pulmonary sicca and bronchi-ectasis lead to frequent infections and bacterial colo-nization, often with Pseudomonas species. Patients with chronic GVHD are also at risk for chronic sinopul-monary disease, which may be relatively asymptomatic given the extent of involvement. The sinuses should be considered as a potential fever source in any patient with chronic GVHD.
+
+Musculoskeletal System
+Muscle cramps are a common symptom, although the pathophysiology is not understood. Myositis, with tender muscles and increased muscle enzymes, may start as a proximal myopathy, but is rare and does not explain the frequent occurrence of severe cramps. Fas-cial involvement in sclerodermatous GVHD is usually associated with skin changes, but may develop with normal, but ﬁxed overlying skin [87]. Fasciitis often affects forearms and legs causing signiﬁcant limita-tions in range of motion and joint contractures. Pa-tients with restricted range of motion beneﬁt from a regular program of physical therapy and deep muscle fascial  massage.  Serial  assessments  of  joints  should document range of motion.
+
+Hematopoietic System
+Cytopenias are common in patients with chronic GVHD. They may be a result of stromal damage or caused by autoimmune processes. Thrombocytopenia at  the  time  of  chronic  GVHD  diagnosis  has  been associated with a poor prognosis [66,88,89]. Eosino-philia may be seen and may be an indicator of chronic GVHD activity.
+
+Other Organ Systems
+Pericardial and pleural effusions can cause com-pressive loss of function and may require drainage and sclerosis. Peripheral edema may be severe. Myasthenia gravis and peripheral neuropathy also have been at-tributed  to  chronic  GVHD.  Women  may  develop vaginal or vulvar lichenoid changes, ulcers, web for-mation, and strictures, and should have a biopsy to conﬁrm the diagnosis if no other organs are involved. Topical corticosteroids can be effective treatment for vaginal chronic GVHD, and mechanical or surgical dilation may be necessary for relief of symptoms.
+In pediatrics, chronic GVHD or its treatment can inhibit growth, although most children do catch up once chronic GVHD is controlled and immunosup-pression is tapered. Chronic GVHD involvement of heart, kidney, and central nervous system is question-able despite occasional rare reports.
+
+Immunodeﬁciency
+Chronic  GVHD  causes  profound  immune  dys-function [90-93], and most chronic GVHD deaths are attributable to infection. Defects in mucosal integrity, immunosuppressive medications, and reduced number and function of mature T and B cells contribute to the high  fatality  rate  from  bacterial,  fungal,  and  viral pathogens  [90-93].  Functional  asplenia  with  an  in-creased susceptibility to encapsulated bacteria, partic-ularly  pneumococcus,  is  common,  and  circulating Howell-Jolly bodies may be seen on peripheral blood smear. Patients are also at high risk for invasive fungal infections and Pneumocystis carinii pneumonia [94].
+
+
+EVALUATION OF SUSPECTED CHRONIC GVHD
+
+Many patients will have returned to the care of their primary hematologist-oncologist when chronic GVHD  develops.  Although  not  every  rash  or  GI symptom represents GVHD, the accurate and timely diagnosis of chronic GVHD is an important ﬁrst step in   its   successful   treatment.   Because   therapy   for chronic  GVHD  is  highly  immunosuppressive  and must be continued for a prolonged time, it is impor-tant to conﬁrm the diagnosis before initiating therapy. Conversely, subtle manifestations of chronic GVHD may go undiagnosed for months, and this delay may make successful treatment and rehabilitation difﬁcult. For example, the diagnosis of fasciitis without skin changes may be difﬁcult to recognize, but systematic assessment of range of motion of wrists and ankles may detect early signs before permanent disability. In
+
+BB&MT
+
+addition, pulmonary function testing at 3 months and at 1 year after transplantation may detect early signs of BO before symptoms become apparent.
+Once chronic GVHD is diagnosed, intermittent evaluation at an experienced center can help guide management. In a series of 123 patients referred to Johns  Hopkins  for  the  management  of  refractory chronic GVHD, 9 patients were judged to never have had chronic GVHD and 26 patients had inactive dis-ease [95]. Restaging with the use of the Schirmer’s test, pulmonary function tests, gynecological evalua-tion, liver function, complete blood cell counts, and medical photographs if skin involvement is present is helpful to assess the extent of the disease. A morbidity scale can be used to record the severity of manifesta-tion of the chronic GVHD at the time of diagnosis, whenever therapy is changed, and at yearly intervals if treatment continues or if manifestations of chronic GVHD persist.
+
+
+PREVENTION
+
+Although acute GVHD is a predictor for develop-ment of chronic GVHD, successful efforts to decrease acute GVHD have not resulted in decreased rates of chronic GVHD. The two notable exceptions are T-cell depletion and use of umbilical cord blood as a stem cell source because lower rates of both acute and chronic GVHD are observed with these approaches [96,97]. Speciﬁc attempts to decrease chronic GVHD rates  through  prolongation  of  CSA  administration, addition of Ig or thalidomide, and preemptive treat-ment on the basis of subclinical chronic GVHD found in  skin  and  lip  biopsy  specimens  [52,98,99]  have proven unsuccessful (Table 5).
+
+
+TREATMENT OF CHRONIC GVHD
+
+Because the main manifestation of this disease is immunodeﬁciency,  patient  education  and  infection prophylaxis are very important components of chronic GVHD management. Infection is the leading cause of death in patients with chronic GVHD. Prophylaxis against P carinii should be administered to all patients undergoing   treatment   of   chronic   GVHD   for   6 months after discontinuation of immunosuppressive medications. Lifelong splenic dysfunction occurs with chronic GVHD, and prophylaxis against encapsulated bacteria is recommended. The guidelines published by the American Heart Association for endocarditis pro-phylaxis should be followed when patients are under-going dental or other invasive procedures. Patients treated with topical steroids for oral GVHD should be treated with clotrimazole troches or nystatin swishes to prevent oral candidiasis. Patients at risk for late CMV   disease   (receiving   systemic   corticosteroids)
+
+
+
+Population
+
+
+HLA-matched sibling recipients at high risk of relapse posttransplantation,
+N 5 60
+HLA-matched sibling recipients with aplastic anemia, N 5 46
+
+HLA-matched sibling recipients with AML in CR1 or CML, N 5 93
+
+HLA-matched (N 5 122) or 1 antigen mismatched (N 5 25) recipients, heterogeneous diseases
+
+
+HLA-matched sibling recipients with acute leukemia in CR1 or CML, N 5 149
+
+
+HLA-matched sibling recipients with acute leukemia, N 5 81
+Prior acute GVHD or skin biopsy positive for subclinical chronic GVHD, N 5 162
+No active acute GVHD, N 5 103
+
+
+90% matched sibling recipients, N 5 54
+
+
+
+Heterogeneous population, N 5 250
+
+Heterogeneous population, N 5 627
+
+
+Comment
+
+
+Decreased incidence of acute GVHD with combination prophylaxis but similar survival
+
+Decreased incidence of acute GVHD with combination prophylaxis and better survival
+Decreased incidence of acute GVHD with combination prophylaxis and improved survival
+
+
+Low-dose CSA associated with lower relapse rate
+
+Incidence of chronic GVHD in 6-mo CSA arm lower than historical controls
+
+Onset of chronic GVHD more rapid in short CSA arm, higher treatment-related mortality in short CSA arm if prior acute GVHD
+Double-blinded, study closed early due to lower survival and more chronic GVHD in the group receiving thalidomide
+Ig arm had more total infections in year 2 than control patients
+Double-blinded, 3 dose levels of IgG, similar rates of infection and interstitial pneumonitis
+
+Chronic GVHD Conclusions
+
+
+Higher incidence of chronic GVHD (44% vs. 21%, P 5 .02) with combination prophylaxis
+
+Trend toward higher chronic GVHD in combination prophylaxis (58% vs. 36%, P 5 .18)
+No difference
+
+
+
+Higher incidence of chronic GVHD (62% vs. 40%, P 5 .01) in group receiving steroids independent of acute GVHD
+No difference
+
+AML indicates acute myelogenous leukemia; CR1, ﬁrst complete remission; CML, chronic myelogenous leukemia.
+Reprinted with permission from Lee et al. Chronic graft-versus-host disease. In: Atkinson et al. Clinical Bone Marrow and Blood Stem Cell Transplantation. 3rd ed. Cambridge, UK: Cambridge University Press [in press].
+
+
+should  have  CMV  activity  monitored  closely  and treatment initiated or reactivated. Patients should re-ceive prophylatic acyclovir for prevention of varicella zoster virus reactivation during the ﬁrst year after the transplantation and later if systemic immunosuppres-sion is still needed to control chronic GVHD. Some
+
+centers administer intravenous IgG to patients with hypogammaglobulinemia if levels are ,400 mg/dL) to maintain serum IgG levels .500 mg/dL. Posttrans-plantation vaccination guidelines are available on the Centers for Disease Control and Prevention web site (www. cdc.gov/mmwr/mmwr_rr.html) [100]. Patients
+
+Treatment
+
+Group I: untreated, group II: corticosteroids and/or anti-thymocyte globulin, group III: corticosteroids and cyclophosphamide, procarbazine, or azathioprine
+Corticosteroids 1/2 azathioprine
+
+
+
+Alternating-day corticosteroids and CSA
+
+
+Cyclosporine, steroids 1/2 thalidomide
+
+
+Steroids, CSA or tacrolimus, 1/2 thalidomide
+
+
+Steroids 1/2 CSA
+
+N	Comments
+
+52	Sequential study, alive and free of disability: untreated 15%, corticosteroids and/or anti-thymocyte globulin 23%, combination therapy 71%
+
+
+179	Standard-risk patients were randomized, high-risk patients given single-agent prednisone, 40% of patients in each group had subclinical disease only
+
+61	Phase 2 design, high-risk extensive chronic GVHD, 40 given primary therapy, 21 given salvage, long-term survival >50% compared with historical control of 26%
+54	Randomized, unblinded trial, patients with extensive chronic GVHD.
+
+
+51	Randomized, placebo-controlled trial of thalidomide added to standard upfront therapy in higher-risk patients with thrombocytopenia or progressive presentation.
+287	Randomized, unblinded trial, enrolled 1985-1992
+
+Conclusions
+
+Most effective regimen was corticosteroids and azathioprine [133]
+
+
+
+Higher mortality from infection if azathioprine part of initial treatment regimen. In high-risk patients (platelets < 100000), prednisone alone resulted in 26% survival [98]
+Alternating-day, combination therapy better [88]
+
+
+Closed early (target enrollment N 5 134) after interim analysis showed slow accrual and higher response rates in both arms than projected [134]
+Closed early (target enrollment N 5 132) after interim analysis showed slow accrual and only 42% probability of reaching statistical signiﬁcance by enrolling remainder of patients [135]
+Disease-free survival was lower in the combination arm (hazard ratio 1.51; 95% CI, 1.03-2.21; P 5 .03) in multivariate analysis. Transplant-related mortality, relapse, secondary chronic GVHD therapy, rates and discontinuation of all immunosuppressive therapy were not different [103]
+
+Reprinted with permission from Lee et al. Chronic graft-versus-host disease. In: Atkinson et al. Clinical Bone Marrow and Blood Stem Cell Transplantation. 3rd ed. Cambridge, UK: Cambridge University Press [in press].
+
+
+
+with  chronic  GVHD  should  not  receive  live  virus vaccinations such as measles, mumps, and rubella.
+The most widely used ﬁrst-line therapy for treat-ment of chronic GVHD is CSA and prednisone, ad-ministered on alternating days. Sullivan et al reported that prednisone alone is superior to prednisone plus azathioprine for primary treatment of patients with standard-risk  extensive  chronic  GVHD  [98].  How-ever, in patients classiﬁed as high risk on the basis of platelet counts , 100 3 109/L, treatment with pred-nisone alone resulted in only a 26% 5-year survival rate. When a similar group of patients was treated with alternating day CSA and prednisone, the 5-year survival rate exceeded 50% [88]. After this encourag-ing  report,  most  centers  adopted  this  regimen  for initial treatment of all patients, not just those deemed at high risk. Patients start treatment with daily pred-nisone at 1 mg/kg/d and daily CSA at 10 mg/kg/d divided twice a day. If chronic GVHD is stable or improving  after  2  weeks,  prednisone  is  tapered  by 25% per week to a target dosage of 1 mg/kg every other day. After successful completion of this steroid
+
+
+taper, CSA is reduced by 25% per week to alternate-day dosing of 10 mg/kg/d divided twice a day, every other day. If the disease has completely resolved, pa-tients are slowly weaned from both medications after 9 months, with dose reductions approximately every 2 weeks. Patients with incomplete responses are kept on therapy for 3 more months and then re-evaluated. If patients fail to respond by 3 months or show progres-sive disease, salvage regimens are warranted [101].
+Until recently, there was no data on the effective-ness of this regimen in standard-risk patients. Flowers recently reviewed the success of initial combination therapy for patients treated in the 1980s. She reported a nonrelapse mortality rate of 21% in standard-risk patients  (N  5  126)  and  39%  in  high-risk  patients (N 5 111), deﬁned by progressive onset or thrombo-cytopenia. Successful discontinuation of all immuno-suppressive medications eventually occurred for 60% of standard-risk patients and 40% of high-risk patients [102]. Koc et al recently reported the long-awaited results of a study comparing prednisone alone to pred-nisone plus CSA in patients with extensive chronic
+
+
+Table 7. Secondary Therapy for Chronic GVHD
+
+
+
+Agent
+
+High-dose corticosteroids
+
+
+
+Tacrolimus
+
+
+
+Mycophenolate mofetil
+
+
+
+
+
+Rapamycin
+
+
+
+Extracorporeal photopheresis
+
+
+
+Psoralen and UVA
+
+
+
+UV-B radiation
+
+Thalidomide
+
+Etretinate (no longer available), acitretin
+
+
+Azathioprine
+
+Hydroxychloroquine
+
+
+
+Ursodeoxycholic acid
+
+
+
+
+Clofazimine
+
+Anti-thymocyte globulin
+Daclizumab
+
+Inﬂiximab
+
+
+2-deoxycoformycin
+
+Published Success Rate
+
+48% major response rate (N 5 56)
+
+
+35% response rate (N 5 39)
+
+
+46% objective response (N 5 26)
+
+
+
+Not available
+
+
+
+33%-80%
+N 5 (11-18)
+
+
+
+40% CR, 38% PR (N 5 11-40)
+
+
+
+Case series
+
+9%-42% CR rate (N 5 14-80)
+74% improvement (N 5 27)
+
+
+Not available
+
+9% CR and 44% PR (N 5 40)
+
+
+
+33% decreased in bilirubin levels, but not sustained off therapy
+(N 5 12) 55% PR
+(N 5 22) Not available
+
+Not available
+
+Reported in abstracts
+
+Reported in abstracts
+
+Hypothesized Mechanism of Action
+
+Lympholytic at these doses
+
+
+
+Binds to FKBP-12 (FK binding protein) and inhibits T-lymphocyte activation, concentrates in liver
+Prodrug of mycophenolic acid that is a noncompetitive reversible inhibitor of inosine monophosphate dehydrogenase. Cytostatic for T and B lymphocytes because they lack salvage pathways
+Binds to FKBP-12 and mammalian target of rapamycin to inhibit cytokine-driven T-cell proliferation
+Induces apoptosis in alloreactive T cells, normalization of CD4/CD8 ratios by decreasing CD8 cells, increases natural killer cells, decreases dendritic cells
+Interferes with antigen presentation and inﬂammatory cytokine production by Langerhan’s cells, increases IL-10 production by keratinocytes
+Treats epidermis only, induces IL-10 in human epidermal cells
+Anti-inﬂammatory and immunosuppressive properties
+Synthetic vitamin A derivative, may affect production of cytokines
+
+Cleaved to mercaptopurine
+
+Interferes with antigen processing and presentation, proliferation, TNFa production, and cytotoxicity, synergistic with CSA and tacrolimus in vitro
+Replaces native human bile acids, reduces class I HLA expression on hepatocytes
+
+
+
+Atypical immunomodulatory effects
+In vivo T-cell depletion
+
+Humanized anti–IL-2 receptor antibody
+Chimeric IgG monoclonal antibody, binds to TNFa and prevents binding with receptors
+Inhibits adenosine deaminase
+
+
+Side Effects
+
+Infection, glucose intolerance, osteoporosis, avascular necrosis, cataracts, psychological effects including psychosis, insomnia
+Renal dysfunction, neurotoxicity, hypertension
+
+
+Nausea, vomiting, diarrhea, neutropenia
+
+
+
+
+Hyperlipidemia, hypertension, rash
+
+
+GI upset, potential need for central IV access
+
+
+
+Increase in skin cancer, phototoxicity, nausea, hepatoxicity
+
+
+Increase in skin cancer, phototoxicity
+Neuropathy, somnolence, constipation, neutropenia
+Skin scaling, breakdown, nail cracking, xerosis, cheilitis, pruritis, rare pseudotumor cerebri
+GI symptoms, neutropenia, thrombocytopenia
+GI symptoms, rare retinal toxicity
+
+
+
+Diarrhea, abdominal pain, headache
+
+
+
+Abdominal cramping, hyperpigmentation
+Anaphylaxis, serum sickness
+
+None
+
+Hypersensitivity reactions, infections
+
+Nausea, vomiting, myelosuppression, rash, headache
+
+
+Reference
+
+136
+
+
+
+137, 138
+
+
+
+139, 140
+
+
+
+
+
+
+
+
+141-144
+
+
+
+145-149
+
+
+
+150
+
+104-106, 151
+
+152
+
+
+
+
+153
+
+
+
+154
+
+
+
+
+155
+
+
+
+226
+Chronic GVHD Review
+
+
+
+
+Table 7. (Continued)
+
+Agent
+
+Rituximab
+
+Total lymphoid radiation
+Topical azathioprine
+
+
+
+Topical tacrolimus
+
+Opthalmic cyclosporine IV lidocaine
+
+
+
+Published Success Rate
+
+Case report
+
+Case series
+
+Case report
+
+
+
+Case series
+
+Case series Case report
+
+
+
+Hypothesized Mechanism of Action
+
+Chimeric anti-CD20 monoclonal antibody
+
+
+Purine analog metabolized to 6 mercaptopurine
+
+
+
+0.1% ointment
+
+1% solution
+Vascular and anti-inﬂammatory properties
+
+
+
+Side Effects
+
+Allergic reactions
+
+Leukopenia
+
+Rash, fever, pancreatitis, arthralgias, malaise, nausea, diarrhea, pancytopenia, hepatitis, infections, malignancy
+Localized skin burning, pruritis, irritation
+None
+Seizures, drowsiness, tremors, hypotension
+
+
+
+References
+
+156
+
+157, 158
+
+159
+
+
+
+160
+
+161 162
+
+IV indicates intravenous; CR, complete response; PR, partial response.
+Reprinted with permission from Lee et al. Chronic graft-versus-host disease. In: Atkinson et al. Clinical Bone Marrow and Blood Stem Cell Transplantation. 3rd ed. Cambridge, UK: Cambridge University Press [in press].
+
+
+
+GVHD without thrombocytopenia [103]. In this trial (N  5  287  evaluable  patients),  the  cumulative  inci-dence of transplant-related mortality, survival, relapse, need for secondary chronic GVHD therapy, and dis-continuation of immunosuppressive medications were not signiﬁcantly different between the 2 arms. Intrigu-ingly, survival without recurrent malignancy was bet-ter in the prednisone-only arm (P 5 .03) although the incidence of avascular necrosis was also higher. Thus, there is no evidence that initial combination therapy improved control of chronic GVHD in patients with platelet counts . 100 3 109/L. The uncertainty re-garding the choice of frontline therapy emphasizes the importance of enrolling patients on clinical trials so that  fundamental  questions  about  the  pathogenesis and treatment of chronic GVHD may be answered. Currently 2 large randomized trials are planned or underway for frontline therapy. One trial through the Children’s Oncology Group is looking at the addition of hydroxycholoroquine to CSA plus prednisone. The other  multi-centered  trial  organized  by  the  Fred Hutchinson Cancer Research Center is examining the addition of mycophenolate mofetil to prednisone plus calcineurin inhibitor in patients with extensive chronic GVHD or high-risk features. Table 6 reviews pub-lished trials of initial treatment for chronic GVHD.
+
+
+SECONDARY THERAPIES
+
+If  patients  fail  to  respond  or  progress  through steroid-based therapy then secondary therapy is indi-cated. Steroid-refractory chronic GVHD is formally deﬁned as either failure to improve after at least 2 months,  or  progression  after  1  month  of  standard immunosuppressive therapy, including corticosteroids and CSA [104,105]. A number of phase 2 trials of
+
+BB&MT
+
+secondary or salvage regimens have been published, and most report a success rate of 25% to 50%. How-ever,  most  trials  contain  40  or  fewer  patients.  Re-ported response rates are usually based on 4 catego-ries:  complete  (resolution  of  all  chronic  GVHD manifestations), partial ($50% but less than complete organ responses), no response (,50% response), and progression (worsening while on therapy) [104,106]. Table 7 provides information about salvage therapies in chronic GVHD. A multicenter, randomized trial with extracorporeal photopheresis is currently being conducted in the United States and Europe for pa-tients  with  corticosteroid-dependent  or  refractory chronic GVHD with skin involvement.
+
+
+
+IMPACT OF CHRONIC GVHD ON MAJOR TRANSPLANTATION OUTCOMES
+Nonrelapse Mortality
+Chronic GVHD is the major cause of nonrelapse mortality in patients surviving more than 2 years after allogeneic transplantation, and increasing severity of chronic GVHD is associated with higher nonrelapse mortality  rates  [4,82]  (Figure  2).  Infection  from  a broad array of pathogens is the major cause of death, followed by progressive organ failure from chronic GVHD involvement. De novo chronic GVHD occurs later than the other forms of chronic GVHD and does not seem to adversely affect survival [107]. In aplastic anemia and refractory anemias where the risk of re-lapse  and  death  from  the  primary  disease  is  low, chronic GVHD has a substantial adverse impact on survival that has not improved signiﬁcantly during the past 30 years [2,108].
+
+227
+S. J. Lee et al.
+
+
+
+Graft-versus-Malignancy Effect
+Chronic GVHD is associated with lower relapse rates  in  both  early-  and  advanced-stage  leukemia [3,107,109-113]. However, the nature of this graft-versus-malignancy effect is poorly understood, and it is not known whether the protective effect relies on development of overt chronic GVHD or is durable once chronic GVHD resolves [110]. Recent observa-tional data suggest that increased severity of chronic GVHD is not associated with a decreased relapse risk (Figure 2). Nevertheless, studies examining preventive and treatment strategies should carefully follow up relapse rates, especially in situations where disease is advanced or cure is thought to be heavily reliant on an intact  graft-versus-malignancy  effect.  For  example, eradication  of  Philadelphia  chromosome–  positive cells in patients with chronic myeloid leukemia was correlated  with  development  of  chronic  GVHD  in one study [114].
+
+Impact on Functional Status and Quality of Life
+Chronic  GVHD  is  associated  with  substantial quality  of  life  deﬁcits,  particularly  in  the  areas  of physical and functional status [5,115-117]. In addition, patients  with  chronic  GVHD  report  more  speciﬁc symptoms, such as rashes, mouth sores, and frequent infections than unaffected individuals [7,118]. Social and emotional functioning and satisfaction with trans-plantation are relatively preserved, although chronic GVHD is associated with decreased general health status, sexual inactivity, and loss of employment in long-term  survivors  [69,117,119-122].  In  addition, long-term treatment with corticosteroids for chronic GVHD may result in compromised quality of life due to the signiﬁcant morbidity associated with this treat-ment. A 30-item survey allowing patient self-report of chronic GVHD symptoms has been validated [113].
+
+
+
+FUTURE DIRECTIONS
+
+Efforts  to  prevent  the  development  of  chronic GVHD, including the use of Ig and thalidomide, have been  unsuccessful  [83,123].  Likewise,  trials  of  pro-longed administration of CSA found no difference in chronic GVHD or mortality when CSA was given for 24 months rather then 6 months [124]. Current trans-plantation practices, including the use of DLIs and PBSCs, older patient age, and increasing use of unre-lated and mismatched stem cell donors make it likely that chronic GVHD is going to be a progressively more common problem. Ongoing research to further characterize the pathogenesis of this disease is crucial to the development of new therapeutic approaches, whereas well-organized, multicenter trials are needed to test clinical questions.
+
+
+ACKNOWLEDGMENTS
+Supported in part by National Institutes of Health grant no. CA75267-05 and the Amy Strelzer-Manas-evit Scholars Program. Supported by grants HL36444, CA18221, and CA18029 from the National Institutes of Health, Department of Health and Human Services. The authors wish to thank Paul Martin for helpful com-ments.

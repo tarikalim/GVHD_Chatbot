@@ -1,0 +1,680 @@
+﻿Biol Blood Marrow Transplant 23 (2017) 211–234
+
+Biology of Blood and Marrow Transplantation
+
+The Biology of Chronic Graft-versus-Host Disease: A Task Force Report from the National Institutes of Health Consensus Development Project on Criteria for Clinical Trials in Chronic Graft-versus-Host Disease
+
+Key Words:
+Chronic graft-versus-host disease
+Blood and marrow transplantation Immune mechanisms
+Clinical manifestations
+
+ABSTRACT
+Chronic graft-versus-host disease (GVHD) is the leading cause of late, nonrelapse mortality and disability in allogeneic hematopoietic cell transplantation recipients and a major obstacle to improving outcomes. The biology of chronic GVHD remains enigmatic, but understanding the underpinnings of the immunologic mechanisms responsible for the initiation and progression of disease is fundamental to developing effective prevention and treatment strategies. The goals of this task force review are as follows:
+• Summarize the current state of the science regarding pathogenic mechanisms of chronic GVHD and crit-ical knowledge gaps.
+• Develop working hypotheses/overriding concepts for chronic GVHD development.
+• Deﬁne the usefulness of current preclinical models to test working hypotheses and ultimately discover and develop new therapeutic strategies.
+• Identify shortcomings of preclinical models, and deﬁne criteria for the creation of additional models to address these limitations.
+
+INTRODUCTION
+Relapse of underlying malignancy and the development of chronic graft-versus-host-disease (GVHD) remain the major obstacles to improving outcomes following allogeneic he-matopoietic cell transplantation (HCT). Chronic GVHD remains the prevailing cause of nonrelapse mortality in patients sur-viving longer than 2 years after allogeneic HCT, negatively inﬂuencing both quality of life and long-term outcomes. Un-fortunately, the incidence and severity of chronic GVHD have increased over the last decade despite advances in clinical practice [1,2]. Thus, although many GVHD prevention regi-mens have reduced acute GVHD, chronic GVHD amelioration has been less affected [3-5], with exceptions seen with the use of antilymphocyte antibodies and high-dose cyclophos-phamide in the early post-transplantation period [6-9]. Unlike acute GVHD, which is driven almost exclusively by the acti-vation of donor T cells and the release of proinﬂammatory cytokines [10], the immunopathophysiology of chronic GVHD is more complex. Chronic GVHD involves multiple, distinct interactions among alloreactive and dysregulated T and B cells and innate immune populations, including macrophages, den-dritic cells (DCs), and neutrophils, that culminate in the initiation and propagation of proﬁbrotic pathways.
+Overthepastdecade,theNationalInstitutesof Health’scon-sensus criteria for the diagnosis and scoring of chronic GVHD have brought consistency to the terminology and methods for reporting assessment ﬁndings in HCT recipients [11,12]. This effort has been successful in standardizing the language and documentation used by clinicians to describe clinical mani-festations of disease [13-15], yet the precise mechanisms responsible for the onset and progression of chronic GVHD remain elusive. In this paper, we review the current under-standing of the immunology of chronic GVHD and provide guidance for pursuing several focused areas of research over the next decade.
+
+CLINICAL MANIFESTATIONS OF CHRONIC GVHD
+Chronic GVHD presents with the following key clinical manifestations: mucocutaneous, myofascial, pulmonary, and “other,”affectingessentiallyanyorgansysteminthebody.Char-acteristic features may include chronic inﬂammatory changes thatcanberelativelyacellularinvolvingocular[16],oral,esoph-ageal,skin,jointandfascial,andgenital[12]tissues.Progression to clinically signiﬁcant ﬁbrosis involving multiple organs in the integumentary, musculoskeletal, aerodigestive, gastrointesti-nal, cardiorespiratory, reproductive, and peripheral nervous systems occurs in severely affected individuals. Rare but severe clinical presentations of chronic GVHD also can include poly-serositis(withpericardialandpleuraleffusions)orpolymyositis with severe muscle weakness and elevated muscle enzyme levels [17].
+Because scoring is based on the degree of tissue involve-ment and functional impairment and not on the underlying biology, clinical disease classiﬁcations are unlikely to help translational scientists complete association analysis of large datasets. This is particularly complicated by the strong cor-relations between chronic GVHD and other late complications,
+
+including metabolic syndrome, renal impairment, infec-tions, and the development of second cancers [18-20].
+
+Standardizing Clinical Disease Nomenclature to Facilitate Interpretation of Biological Studies of Chronic GVHD
+The transplantation biology ﬁeld seeks approaches to es-tablish clinical tolerance, deﬁned as a speciﬁc lack of immune activity to donor and host tissues with preservation of re-sponses to foreign antigens, such as invading pathogens [21]. Tolerance could be achieved through mitigation of T cell re-activity, a process that typically occurs through 2 mechanisms, central (thymic) tolerance and peripheral (extrathymic) tol-erance  [22].  Known  requirements  for  the  induction  or description of tolerance after HCT in the clinic are lacking. Chronic GVHD is the net result of an imbalance between rel-atively higher immune effector mechanisms that cause inﬂammation and disease and lower inhibitory (regulatory) mechanisms that may maintain tolerance (Figure 1).
+The interpretation of biological studies of chronic GVHD is complicatedbyvariabilityintheclassiﬁcationof differentmani-festations of disease. A rational approach for grouping patient samples is required for studies of human immune cell func-tion. Deciphering the biology of clinical chronic GVHD and interpreting correlative biology studies conducted in affect-ed patients is both important and challenging because of the grouping of diverse patient subsets (eg, established chronic GVHD with newly diagnosed de novo with overlap, controls with/without previous acute GVHD or with/without subse-quent chronic GVHD) that customarily occurs in the context of clinical investigation. A single nomenclature and compari-sons among similar clinical groups should be used (Table 1). Moreover, the biology of chronic GVHD is likely different in newly diagnosed patients (at the onset of active disease) com-pared with that observed later in the disease course. Thus, grouping all chronic GVHD patients together in biological anal-yses should be avoided whenever possible. Instead, we propose grouping chronic GVHD patients according to the presumed underlying biology that consists of inﬂammatory, immune dysregulatory (functionally nontolerant), or ﬁbrotic/sclerotic manifestations(Table2),andnotingthedurationof thedisease. Similarly, deﬁnitions of nomenclature regarding the terms “alloreactivity”and“autoreactivity”requireconsistentuse.Inthis paper, we refer to all donor T cell responses as alloreactive in nature  when  donor  cells  respond  to  recipient  cells  and autoreactivewhendonorimmuneresponseoccuragainstdonor cells,suchasplateletsorredbloodcells.Bothresponsesarepart of the spectrum of chronic GVHD, and the term “autoantibod-ies”hasbeenusedtodescribetissuereactivealloantibodies.These deﬁnitionshavecaveatsgiventhepossiblecontributionofdonor-derived antigen-presenting cells (APCs) to the T cell activation
+that contributes to chronic GVHD [23,24].
+
+Factors Inﬂuencing the Development of Chronic GVHD and the Interpretation of Biological Studies
+A number of clinical variables are associated with the de-velopment of chronic GVHD and may inﬂuence the underlying pathophysiology of the disease. These include, but are not
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	213
+
+Figure 1.  Pathways to functional tolerance or chronic GVHD. Several factors signiﬁcantly inﬂuence the immunologic landscape that evolves after allogeneic HCT and is ultimately responsible for (1) normal immune reconstitution, including the restoration of protective, anti-infective host immunity and the rees-tablishment of expanded T cell and B cell repertoires; (2) functional tolerance with preservation of graft-versus-tumor effects; or (3) immune dysregulation and alloreactivity that drives the development of chronic GVHD. These factors include, but are not limited to, the following: conditioning regimen intensity; donor and host parameters, including graft source, donor type, HLA match, age, and sex; the contribution of both mature lymphocytes infused at the time of HCT and those generated from the donor stem cell graft and educated in thymic remnants of the host; and the eﬃciency (or lack thereof) of early and late regulatory mechanisms.
+MA, myeloablative conditioning; RIC, reduced-intensity conditioning; NMA, nonmyeloablative conditioning; +GVL, presence of graft-versus-leukemia activity.
+
+
+Table 1
+GVHD Status Deﬁnitions and Grouping for Biological Studies Performed in Patients After Allogeneic HCT
+
+
+Deﬁnition
+
+
+Resolved GVHD (immune tolerance)
+No GVHD (“normal” immune reconstitution)
+Active late acute GVHD Active chronic GVHD, new
+onset (within 1 mo) and established
+Inactive chronic GVHD
+
+Alloreactive and Autoreactive Effector Mechanisms
++
+
+−
+
++ +
+
++
+
+Regulatory Mechanisms
+
++
+
+−
+
+− −
+
++
+
+Previous Acute GVHD
+±
+
+−
+
+± ±
+
+±
+
+Previous Chronic GVHD
+±
+
+−
+
+− +
+
++
+
+Off Immune Suppression
+>3 mo
++
+
++
+
+− −
+
++
+
+Physical Manifestations of Acute and/or Chronic GVHD
+−
+
+−
+
++ +
+
++
+
+Normal IgG Level (Patient Not Anergic)
++
+
++
+
+± ±
+
+±
+
+GVHD indicates graft-versus-host disease; HCT, hematopoietic cell transplantation; +, present; −, absent; ±, may or may not be present.
+
+
+
+
+limited to, donor type, stem cell source, conditioning regimen intensity, underlying diagnosis (myelodysplastic syndrome or chronic myelogenous leukemia), in vivo T cell depletion by alemtuzumab and antithymocyte antibodies, use of post-transplantation cyclophosphamide, sex mismatch, HLA mismatch, and evidence of prior cytomegalovirus and Epstein-Barr  virus  infection  [1,25-36].  It  is  also  possible  that, paradoxically, treatment with and subsequent withdrawal of commonly used calcineurin inhibitors may contribute to the development of chronic GVHD by blocking thymic T cell de-velopment and thymic and peripheral T cell tolerance [37-39]. Additional factors include the ages of the donor and recipi-ent. Although early reports supported the hypothesis that increasing donor age was associated with higher rates of chronic GVHD, perhaps owing to higher numbers of memory T cells [27], recent data would suggest that it has a lesser effect [40-42]. Possibly more important is the fact that younger re-cipients, especially children, have a functional thymus that may have a signiﬁcant inﬂuence on the development of chronic GVHD and could explain the lower rate of chronic
+
+GVHD in younger patients [43,44]. We discuss the role of the thymus in chronic GVHD, although its role in adult recipi-ents likely is much less prominent.
+
+A 3-PHASE MODEL FOR CHRONIC GVHD BIOLOGY Experimental studies have underscored the consequences
+of inﬂammation early after HCT from conditioning and ac-tivation of donor T cells. Vascular endothelial cell (EC) activation and injury promotes the migration of donor immune cells into target organs. Thymic injury and dysfunc-tion have deleterious effects on pathways of central tolerance. Depletion of regulatory T cells (Tregs) or reduction of their suppressor function by calcineurin inhibition further impairs tolerance induction by peripheral mechanisms. Propaga-tion of tissue injury by dysregulated donor lymphocyte populations and aberrant repair mechanisms set the stage for ﬁbroblast activation, collagen deposition, ﬁbrosis, and irre-versible end-organ dysfunction. Figure 2 proposes a 3-phase model for the initiation and development of chronic GVHD that involves early inﬂammation and tissue injury (phase 1),
+214	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+Table 2
+Biological Subgrouping of Key Clinical Manifestations of Chronic GVHD
+
+
+Manifestations
+
+Mucocutaneous
+
+
+
+Lung
+
+
+Myofascial
+
+
+Liver
+
+Gastrointestinal Hematopoietic system
+
+Immune system
+
+Inﬂammatory (Phase 1)
+Oral lichen planus-like erythema/ ulcers; erythematous skin rashes; conjunctival erythema; genital/vaginal erythema, lichen planus-like or ulcerations
+Pulmonary inﬂammation (clinical or subclinical)
+
+Extremity edema, fasciitis
+
+
+Cholestatic or hepatitic GVHD
+
+Colitis, epithelial cell injury Neutrophilia; elevated platelet counts; anemia of chronic disease
+
+Acute-phase reactants
+
+Immune Dysregulatory (Phase 2)
+Chronically infected ulcers
+
+
+
+Chronic lymphocytic bronchiolitis; chronic interstitial pneumonitis; recurrent sinopulmonary infections
+Myositis; myasthenia gravis; chronic inﬂammatory demyelinating polyneuropathy
+Autoimmune hepatitis
+
+Chronic colitis, malabsorption Lymphopenia; immune neutropenia or thrombocytopenia; eosinophilia; autoimmune hemolytic anemia Infections, especially with encapsulated bacteria;
+hypogammaglobulinemia or hypergammaglobulinemia; autoimmune phenomena (renal, thyroid, polyserositis,
+other)
+
+Fibrotic/Sclerotic (Phase 3)
+Salivary dysfunction; limitation of mouth opening; lacrimal dysfunction; cutaneous sclerosis; labial agglutination; vaginal stenosis; phimosis
+Bronchiolitis obliterans syndrome; interstitial ﬁbrosis
+
+Subcutaneous deep ﬁbrosis; joint contractures
+
+Advanced liver GVHD with periportal ﬁbrosis, ductopenia
+Esophageal web, stricture formation Marrow failure/ﬁbrosis
+
+Functional asplenia; opportunistic
+infections
+
+
+GVHD indicates graft-versus-host disease.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.  Biological phases of chronic GVHD. A 3-step model for the initiation and development of chronic GVHD is proposed that involves early inﬂamma-tion and tissue injury (phase 1), dysregulated immunity (phase 2), and aberrant tissue repair often with ﬁbrosis (phase 3)*. In phase 1, numerous soluble, inﬂammatory proteins, including cytokines and TLR agonists, are released in response to cytotoxic agents, infections, and acute GVHD. Together with cellular components of the innate immune system, these inﬂammatory stimuli result in diffuse, nonspeciﬁc damage to numerous organs and the vascular endothe-lium. Endothelial cell activation and injury set the stage for the migration of donor immune cells into secondary lymphoid organs, including the spleen and lymph nodes, and subsequently into GVHD target tissues. Phase 2 is characterized by the activation of effector populations in the adaptive immune system, including T cells, B cells, antigen-presenting cells, and NK cells with compensatory inhibition by regulatory populations including Tregs, Bregs, NKregs, and possibly Tr1 cells. The response appears to be both antigen-speciﬁc (MHCs and miHAs) and non–antigen-speciﬁc. Thymic injury and dysfunction engendered during phase I and phase II has deleterious effects on pathways of central tolerance. In Phase 3, propagation of tissue injury occurs by dysregulated donor lymphocyte populations in the context of aberrant repair mechanisms. This in turn promotes the release of proﬁbrotic mediators, leading to macrophage and ﬁbroblast activation, collagen deposition, ﬁbrosis, and irreversible end-organ dysfunction. *It should be noted that although these are usually sequential events, patients in phase 1 can often go both to phase 2 and phase 3 simultaneously or sometimes only to phase 2 without phase 3.
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	215
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.  Phase 1: Early inﬂammation and tissue injury. Diagram of damage-induced activation of the innate immune system resulting in recruitment of Th1/ Tc1 and Th17 cells to a tissue site. Ongoing damage to epithelial and connective tissue releases damage-associated molecular patterns (DAMPs), including RNA, DNA, chromosomal HMGB1, extracellular matrix materials, ATP, and uric acid. RNA and DNA can be taken up into endosomes as part of immune com-plexes with anti–nuclear material autoantibodies (triggering TLR3, TLR7, and TLR9). ECM and HMGB1 bind to plasma membrane TLR2, TLR4, and RAGE complexes. All of these TLR pathways trigger IRF transcription factors, inducing IFNα, and TNFα and IL-6 through NFkB. NLRP3 inﬂammasome formation can be trig-gered by ATP (via P2XR7), resulting in IL-1β production. IFNα, and IL-1β plus IL-6, can induce T cell differentiation into Th1/Tc1 and Th17. IFNα and IL-17 also induce chemokines (CXCL9/10 and CCL20), which recruit Th1 and Th17 cells into tissues from the blood. Cytolytic attack by these effector T cells continues a cycle of tissue damage and release of DAMP molecules.
+
+
+
+chronic inﬂammation and dysregulated immunity (phase 2), and aberrant tissue repair often with ﬁbrosis (phase 3). Strat-egies focusing on (1) speciﬁc depletion or functional inhibition of mature, alloreactive, T cells in the stem cell graft; (2) pre-serving or restoring thymic function and restoration of Treg numbers and functional capacities; and (3) mechanisms of dysregulated inﬂammation and repair, which lead to ﬁbro-sis, may successfully reduce the incidence and severity or halt the progression of chronic GVHD. Such approaches will promote the establishment of immune tolerance with pres-ervation of antiinfective and antitumor immunity after HCT.
+
+Phase I: Effect of Early Post-Transplant Inﬂammation and Tissue Injury on Chronic GVHD
+Role of the adaptive and innate immune system responses in chronic GVHD
+Acute GVHD is initiated and sustained by innate immune system pathways that mediate the response to microbial prod-ucts and molecules released by cellular damage [45-48], in cooperation with the adaptive (T and B cell) system. Trigger-ing inﬂammatory pathways in scavenger macrophages,
+
+plasmacytoid and myeloid DCs, B cells, and neutrophils results in the production of key mediators that enhance antigen pre-sentation and direct the commitment of naïve T cells into differentiated Th1/Tc1 and Th17/Tc17 T cell effector lineages (Figure 3). For example, Toll-like receptor (TLR) pathways are triggered through receptors on the plasma membrane (TLR2, TLR4) and in endosomes (TLR3, TLR7/8, TLR9). Deleting TLR or NOD-like receptor (NLR) pathways or blocking their activ-ity with small molecule inhibitors signiﬁcantly reduces acute GVHD [49-52]. Similar mechanisms appear to be in place for chronic GVHD. Hyperresponsiveness to TLR9 agonists has been described in B cells at the onset of chronic GVHD [53], but re-sponses to a TLR9 agonist are muted in certain B cell subsets [54]. In addition, agents that inhibit TLR7, TLR8, and TLR9 sig-naling within the lysosome have shown variable in vivo activity in murine and human chronic GVHD [55-57].
+TLR pathway activation induces IFNα production via tran-scriptional interferon response factors (IRFs) 3 and 7 along with IL-6 and TNFα through NFκB. IFNα can drive Th1/Tc1 commitment [58], resulting in IFNγ production. IFNα and IFNγ in turn can induce chemokines (CXCL9, CXCL10, CXCL11) that
+216	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+Table 3
+Potential Agents for Blockading Effects of Innate Immune Response
+
+
+Target
+TLR4
+TLR7, TLR9 MyD88
+
+P2X7R
+
+NLRP3
+
+IL-1β
+
+
+IFNα
+JAK
+
+Agent
+NI-0101 AT791; E6446 ST2825 Imatinib
+A-438079 CE-224,535 Pirfenidone Glyburide Rilonacept
+Canakinumab
+VX-765, parthenolide Anti-IFNα
+Baracitinib, ruxolitinib, INCB018424, CYT387 (JAK1,2)
+Tofacitinib (JAK1,2,3)
+
+Effects
+TLR4-speciﬁc antibody Small-molecule inhibitor Small-molecule inhibitor Blocks TLR agonist effect Selective P2X7R antagonist
+
+Inhibits NLRP3 expression Blocks NLRP3 activity
+IL-1R1 fusion protein Anti–IL-1β
+Caspase-1 inhibitor Reduces BAFF, CXCL9/10
+Blocks JAK/STAT signaling of multiple cytokines, including IFN (IFNα/β, IFNγ), gp130 family (IL-6), IL12/IL23, and γc family (IL-2, IL-4, IL-7, IL-15) Blocks JAK/STAT signaling of multiple cytokines, including γc family (IL-2,
+IL-4, IL-7, IL-15)
+
+Species
+Mouse Mouse Mouse Mouse
+Mouse, human
+
+Mouse Mouse Human Human
+Human, mouse Human Human, mouse
+
+Human, mouse
+
+Reference(s)
+[323] [324] [325] [326] [327]
+
+[328] [329]
+
+[330] [331,332] [333,334] [60,97]
+
+[335]
+
+
+
+
+
+recruit Th1/Tc1 cells into tissue sites of inﬂammation and other factors that enhance the processing and presentation of host antigens [59-63].
+The assembly of inﬂammasome complexes containing the adapter protein ASC (apoptosis-associated speck-like protein containing C-terminal caspase recruitment domain [CARD]) and caspase I regulates antigen presentation and migratory capacity of DCs and lymphocytes, respectively [64], causing loss of myeloid-derived suppressor cell function during acute GVHD induction [65,66]. Inﬂammasomes also catalyze the production of active IL-1β and IL-18 from their proforms. IL-1β, in combination with IL-6, induces differentiation of pathogenic Th17 cells in humans [67,68].
+Three lines of evidence suggest that similar immune path-ways play a role in the initiation and persistence of chronic GVHD. First, donor T cells activated early post-transplantation appear to contribute to and may sustain chronic GVHD [69,70]. Second, tissue damage incurred during acute GVHD may persist, as evidenced by progressive onset of chronic GVHD or overlap syndrome. Even restricted areas of mild cell damage (eg, waistband pressure, varicella zoster virus reactivation) can trigger localized sclerotic cutaneous chronic GVHD [71]. Th1/ Tc1 and Th17 cells are the dominant T cell effectors in lichenoid inﬁltrates of the skin and mucosa [62,72-77] (Figure 3). These cellscanresultinextensivetissuedestruction,leadingtorelease of damage molecules (eg, ATP, RNA and DNA, HMGB1) that trigger the TLR, NLR, and inﬂammasome pathways that prop-agate inﬂammation [78-82]. The IL-33 receptor ST2/IL1RL1, now recognized as a biomarker for both acute and chronic GVHD, is also released in response to cell damage [83-87]. Third, gene expression in circulating monocytes from clini-cal samples reveals that multiple IFN-inducible genes and receptors  for  pathogen-associated  molecular  patterns  and damage-associated  molecular  patterns  (known  as  pattern recognition receptors [PRRs]) become up-regulated at the time of onset of chronic GVHD, remaining elevated in pa-tients with active disease [88]. These IFN-inducible and PRR genes were comparably up-regulated in patients with cuta-neous lichenoid inﬁltrates and in those with extensive sclerotic involvement, providing a common operant mechanism across the spectrum of chronic GVHD manifestations [88]. The use of a neutralizing type I IFN receptor (IFNAR) antibody pre-vented  skin  and  vascular  changes  in  a  sclerotic  chronic GVHD murine model (B10.D2®BALB/c), and a similar strate-gy  reduced  Th1  activation  and  collagen  production  in  a
+
+phase I clinical trial for patients with for systemic sclerosis [89,90].
+In addition, the IFNγ-inducible chemokines CXCL9, CXCL10, and CXCL11, responsible for CXCR3-expressing Th1 lympho-cyte and natural killer (NK) cell recruitment into tissue, have been identiﬁed as plasma biomarkers for chronic GVHD. These chemokines are up-regulated at diagnosis and remain el-evated in severely affected patients [73,85,91-94]. In particular, CXCL9 was recently found to be part of a biomarker panel that signiﬁcantly correlated with the diagnosis and severity of chronic GVHD once established and had predictive power at day 100 for patients who would develop chronic GVHD within the subsequent 3 months [85]. IFNγ enhances the pro-duction of another recognized chronic GVHD biomarker, the homeostatic B cell activating factor (BAFF), and may contrib-ute to B cell activation in chronic GVHD [95,96]. Blockade of IFNγ signaling through the use of Janus activated kinase (JAK)-1/2 inhibitors is as effective in chronic GVHD as in the acute form of the disease [97,98], although alteration of non-IFN signaling pathways regulated by JAK1/2 also may contrib-ute to the response.
+Contradictory data regarding the role of IFNγ exists in humans, where microsatellite polymorphisms within the ﬁrst intron appear to be associated with decreased IFNγ produc-tion and higher chronic GVHD rates [99]. Recent studies also have demonstrated a correlation of low plasma IFNγ con-centrations with the onset of chronic GVHD in humans [100]. Collectively, these observations suggest that inhibiting TLR and NLR pathways with approaches that target the adap-tive immune system may represent a novel and effective approach for preventing or treating chronic GVHD (Table 3).
+
+Endothelial damage and activation
+Vascular ECs are the ﬁrst host-derived cells to be exposed to the donor immune system and are the primary barrier separating donor and recipient tissue. The passage of donor cells across the vascular endothelium into inﬂamed tissues is tightly controlled; leukocyte transmigration through an EC monolayer is a complex, orchestrated process that involves intimate contact between the 2 cell types [101,102]. The precise mechanisms operating during GVHD development have yet to be fully deﬁned, however. If vascular ECs express and present cognate antigen to alloreactive donor T cells, they can be susceptible to direct immune attack as well. The re-sulting EC activation and injury can facilitate the passage of
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	217
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4.  Phase 2: Chronic inﬂammation and dysregulated immunity. The production and release of inﬂammatory stimuli enhance interactions between antigen-presenting cells and donor-derived lymphocyte populations, including CD4+ T cells, CD8+ T cells, and B cells. Some of the responses are antigen-speciﬁc, and
+some derive from nonspeciﬁc inﬂammatory pathways. Activation of donor lymphocytes results in the generation of effector populations. The production of signature cytokines, BAFFs, and autoantibodies, along with chemokine receptor–ligand interactions, are part of the aberrant immune response contributing to inﬂammation and the recruitment of effector and regulatory cells into peripheral target tissues. The difference between the presence and absence of chronic GVHD appears to be related to a predominance of either dysregulated effector mechanisms when active chronic GVHD is present versus regulatory popula-tions when chronic GVHD is absent or has resolved. The relative contributions of each remain to be determined.
+
+
+
+
+donor-derived cellular and soluble effectors from the blood and into recipient tissues.
+Diffuse EC damage is implicated as a direct contributor to multiple complications occurring after allogeneic HCT [103-108]. Several in vitro and in vivo systems have also dem-onstrated that ECs respond to stimuli such as irradiation, lipopolysaccharide, TNFα, and cytotoxic lymphocytes (CTLs), all of which are involved with inﬂammation early post-HCT, by either becoming activated or undergoing programmed cell death [107,109,110]. Involvement of EC activation and injury in the development of chronic GVHD is inferred by clin-ical and experimental data. Intimal arteritis similar to allograft vasculopathy and extensive loss of microvessels have been observed in the skin of chronic GVHD patients [111]. The latter was reported in direct association with perivascular inﬁltra-tion of donor-derived CTLs, loss of ECs in the vessel lumen, and increased plasma von Willebrand factor levels [112]. Al-though microvessel loss was not compensated for by vascular remodeling, it appeared to be reversible if systemic GVHD was successfully treated. In animal models, EC activation and apop-tosis in the setting of intense lymphocytic inﬁltration during acute GVHD are observed in advance of epithelial injury of the oral mucosa and lungs of mice, 2 key chronic GVHD target organs [113,114]; thus, microvascular loss and resultant tissue ischemia may contribute to the target organ ﬁbrosis charac-teristic of chronic GVHD, as well as the occurrence of late cardiovascular disease reported after allogeneic HCT [18-20]. Elucidation of mechanisms that inﬂuence EC vulnerability to immune-mediated injury during chronic GVHD may uncover novel approaches to prevent the initiation and progression of disease and subsequent end-organ damage and dysfunction.
+
+Effector T cells and chronic GVHD biology
+In vivo T cell depletion using lymphocyte antibody therapy or a short, early post-transplantation course of high-dose cy-clophosphamide each has been shown to reduce the incidence and severity of chronic GVHD [6-8,32,115-117]. These data suggest that chronic GVHD is dependent, at least in part, on mature donor T cells infused with the hematopoietic stem cell graft [118,119]. A subset of mature donor T cells is spe-ciﬁc for histocompatibility antigens uniquely expressed by recipient cells.
+The ﬁrst suggestion that the antigen speciﬁcity of the T cells involved in acute GVHD differed from those of chronic GVHD came from the analysis of clonal T cells in rodent HCT models. Whereas all of the T cell clones from mice with acute GVHD were speciﬁc for restricted histocompatibility anti-gens of the host, the majority of T cell clones from mice with chronic GVHD were speciﬁc or restricted by histocompat-ibility antigens shared by the donor and recipient strains [120]. Although clonal T cells have been found in HCT recipients with acute GVHD and in some cases their antigen speciﬁcity has been determined, clonal T cells have not been consistently identiﬁed in patients with chronic GVHD [121].
+Activated, clonally expanded donor T cells differentiate into distinct functional subsets, including Th/Tc1, Th/Tc2, and Th/ Tc17 cells (Figure 3 and 4). Their effector mechanisms include the production of both cytokines and cytolytic enzymes [122] that contribute to the generation of GVHD. Of the CD4 T cell subset, Th1 cells are the most important for inducing acute GVHD through inﬂammatory cytokines, including IFNγ and TNFα, whereas Th2 cells and cytokines are drivers of chronic GVHD. This Th1/Th2 paradigm has been challenged and
+218	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+
+reﬁned, however [99,100,123,124]. In addition, the role of Th17 cells has been assessed in the context of GVHD (reviewed in [125]). The Th17 pathway of differentiation is distinct from that of Th1 or Th2 CD4+  T cell development. Th17 differen-tiation requires TGFβ1 and IL-6, is enhanced by IL-1β and TNFα [126,127], and is dependent on the transcription factors retinoid-related orphan receptor (ROR)γt and RORα [128]. This lineage of CD4+ helper cell development is characterized by the production of IL-17A, IL-17F, IL-22, and IL-21. A possi-ble role for IL-17–producing CD4+ (Th17) cells and CD8+ (Tc17) cells alone or in combination with other effector subtypes was noted in several preclinical mouse models of both acute and chronic GVHD [129-132]. IL-17 is mechanistically linked to skin and lung GVHD in mice [133-135]. In the setting of chronic GVHD, the contribution of Th17/Th1 cells to tissue injury is regulated in part by signal transducer and activa-tor of transcription (STAT)-3 [136] and IL-12/IL-23 [137] signaling along with programmed death 1 (PD-1)/PD1 ligand 1 (PDL-1) interactions [138]. Elevated Th17 cell numbers have been found in patients with acute and chronic GVHD and are associated with disease status [139]. These Th17 cells in-cluded both IFNγ−  and IFNγ+  subpopulations, and the IFNγ+ Th17 cells migrated into GVHD lesions in the skin and liver. In support of these ﬁndings, the number of Th17-secreting CD8+  T cells was increased in the skin (but not the periph-eral blood) in patients with lichenoid chronic GVHD, but not in patients with scleroderma-like chronic GVHD [72].
+The realization that Th17 CD4+ T cells play a central role in GVHD development suggests that they might be attrac-tive targets for prophylactic or therapeutic intervention. However, the applicability of targeting IL-17 is inﬂuenced by a report suggesting that infusion of IL-17−/− donor T cells into lethally irradiated major histocompatibility complex (MHC)-mismatched recipients led to enhanced acute GVHD as a result of robust Th1 expansion and IFNγ production by donor cells [140]. However, other studies have demonstrated that block-ing Th17 cell differentiation using RORγt knockout mice as donors mitigated acute GVHD and altered T cell traﬃcking to GVHD target organs while maintaining robust engraft-ment and graft-versus-leukemia (GVL) effects [141,142]. Similar approaches can be considered to determine the ef-fectiveness of preventing or treating chronic GVHD. Other cytokines produced by Th17 cells (ie, IL-21 and IL-22) also may contribute to Th17-mediated pathology, suggesting ad-ditional targets for prevention or therapy. The ﬁnding that IL-21/R signaling and IL-2γc cytokines are required for disease initiation and maintenance in a multiorgan system chronic GVHD model that includes bronchiolitis obliterans syn-drome (BOS), suggests that IL-21 may be an optimal target for intervention, possibly obviating the need for targeting IL-17 escape mechanisms [143,144].
+
+Phase 2. Chronic Inﬂammation, Dysregulated Immunity, and the Development of Chronic GVHD
+Following allogeneic HCT, the production and release of inﬂammatorystimulienhanceinteractionsbetweenAPCsand donor-derivedlymphocytepopulations,thegenerationof ef-fector  and  regulatory  populations  and  their  ultimate recruitment to peripheral target tissues (Figure 4). Immune dysregulation leading to chronic GVHD results from the pre-dominance of donor-derived effector immune mechanisms that cannot be controlled by donor- or host-derived regula-toryimmuneresponses.Thisoccursinpartbecausestandard calcineurin-based GVHD prophylaxis, although active in pre-ventingacuteGVHD,isineffectiveinpreventingchronicGVHD
+
+in most patients. Several lines of investigation have assessed whether dysregulated immunity following allogeneic HCT relates to a failure of central or peripheral tolerance mecha-nisms.Thecontributionof multiplemechanismsissupported by recent reports examining transcriptional proﬁles of pe-ripheralbloodmononuclearcellsofHCTrecipientstoelucidate molecular changes associated with “operational tolerance” [145,146]. These studies deﬁned operational tolerance as the successful discontinuation of all immunosuppressive agents and sustained absence of any clinical manifestations of acute or chronic GVHD. Nontolerant HCT recipients had ongoing chronic GVHD requiring continued systemic immunosup-pressive therapy. Differential expression of several candidate genes,includingthoseinvolvedinNKcellcytotoxicity,antigen presentation, lymphocyte proliferation, and apoptosis, were identiﬁed in tolerant and nontolerant patients [145,146].
+Other regulatory mechanisms also play important roles in establishing a balance with T cell effector cells. As we discuss below, decreased regulatory functions of B cells may contribute to chronic GVHD in some patients [147]. The CXCR3+ subpopulation of CD56+bright cytokine-producing NK cells (NKregs) is also associated with the development of chronic GVHD [93]. Murine models have identiﬁed CD4+ in-variant NKT cells (iNKT) as key regulators of Treg expansion and function in vivo [148-150]. In HCT recipients, the number of Tregs in the stem cell product was inversely correlated with the subsequent development of acute GVHD [151,152].
+
+Thymic dysfunction, lack of immune tolerance, and evolution of chronic GVHD
+The thymus is the primary organ for the development of T cells and tolerance induction. Most of what is known re-garding how bone marrow (BM)-derived, lymphoid-skewed precursor cells travel to the thymus and differentiate into naïve T cells in a tightly regulated stepwise process involving pro-liferation, differentiation, and positive and negative selection has been elucidated using murine systems (reviewed in [153]). Positive selection is regulated predominantly by cortical thymic ECs (cTECs) and results in MHC restriction of naïve T cells. Negative selection, the process whereby naïve T cells are deleted when encountering self-antigen presented within the thymus, was once believed to occur only in the medulla under the control of medullary TECs (mTECs) and DCs. However, recent studies indicate that thymic B cells and cTECs can contribute to negative selection as well [154]. An im-portant feature of thymic negative selection is the expression of tissue-restricted peripheral self-antigens by mTECs. The expression of (most) tissue-restricted self-antigens is under the control of the autoimmune regulator (Aire) transcrip-tion factor, which is expressed by mTECs [155].
+Twenty-ﬁve years ago, it was demonstrated that acute GVHD can attack the thymus, resulting in the generation of donor T cells with antihost reactivity owing to defective negative selection (failed central tolerance) [156]. This seminal observation is supported by more contemporary mouse studies [157-164]. In preclinical murine models [155-160,165-167] and in patients [168], the thymus is iden-tiﬁed as a target organ of chronic (and acute) GVHD, resulting in a loss of thymic output and T cell selection processes. Both mTECs and thymic DCs are targeted by donor-derived T cells [159,161,165,167,169], which may have profound effects on negative selection. In mouse models, acute GVHD of the thymus results in loss of Aire-positive mTECs and a de-crease in the diversity of Aire-dependent, tissue-restricted peripheral self-antigens that result in negative selection,
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	219
+
+
+
+especially those antigens involved in chronic GVHD, such as skin, liver, salivary glands, lungs, eyes, and gastrointestinal tract [155]. This effect reduces the likelihood of central tol-erance induction and allows for the development of donor-derived T cells with speciﬁcity (or cross-reactivity) for chronic GVHD target antigens [155]. Additional studies in preclini-cal models support the concept that alloimmunity during acute GVHD may impair effective peripheral T cell toler-ance, leading to the emergence of self-reactive donor T cells capable of recognizing nonpolymorphic tissue antigens or commensally derived antigens presented by either donor or host APCs [69,70,170,171].
+Whether peripheral or central pathways preferentially con-tribute to the development of donor CD4+  and CD8+  T cells responsible for the induction of multiorgan chronic GVHD has been explored previously [136,159,161]. In one model, CD8+ T cells generated chronic GVHD only through thymic-dependent (central) mechanisms. In contrast, CD4+  T cells produced chronic GVHD by alteration of either central or pe-ripheral tolerance pathways. In this model, short-term, in vivo anti-CD4+ T cell depletion therapy reduced thymic damage, subsequent autoreactivity, and resultant multiorgan chronic GVHD. Regeneration of thymic architecture and function after damage (such as caused by conditioning regimen and acute GVHD) decreases with age, potentially explaining why the in-cidence of chronic GVHD is generally lower in pediatric HCT recipients compared with adult HCT recipients [172].
+
+The role of Tregs in chronic GVHD development
+Tregs are CD4+ T cells that express high levels of CD25 (IL-2Rα needed to form a high-aﬃnity IL-2 receptor) and FoxP3 (the master transcription factor regulator). Tregs are vital for immune homeostasis [173], and diminution of Treg numbers or function results in autoimmune disease [174,175]. CD4+ Tregs signiﬁcantly contribute to the effectiveness of GVHD pro-phylaxis, and their eﬃcacy can be inﬂuenced by medications used in the post-transplantation setting [176-178]. They are important in the establishment and maintenance of both central and peripheral immune tolerance after allogeneic HCT [179,180], and post-HCT Treg recovery is a critical element of immune reconstitution [181]. Early after HCT, Tregs are derived primarily from mature memory Tregs in the stem cell product. Several clinical studies have suggested that adop-tive transfer of in vitro expanded Tregs early after stem cell infusion can reduce the incidence and severity of acute GVHD [182-184].
+The role of CD4+  Tregs in chronic GVHD development appears to be more complex. Increased, normal, and de-creased numbers of Tregs have been reported at the onset of chronic GVHD [185-189]. Following HCT, Treg reconstitu-tion is altered and is dependent on various factors, including thymic repopulation and recovery, “homeostatic” Treg pro-liferation, subsequent survival of regenerated activated Tregs, and the choice and use of immunosuppressive drugs. Antigen-speciﬁc proliferation and conversion of conventional T cells into Tregs may contribute to Treg recovery [190,191]. Recent studies have examined possible mechanisms that lead to Treg deﬁciency during chronic GVHD [192-194]. An imbalance between Tregs and T cell effectors, with too few Tregs, results in a skewed thymic production of naïve T cells toward con-ventional T cells [194]. Naïve Treg proliferation is also impaired for prolonged periods after HCT [194]. Similar to the situa-tion in healthy adults, post-HCT Treg reconstitution is dependent primarily on homeostatic expansion of memory Tregs. Although memory Tregs proliferate at high levels after
+
+HCT, these cells develop short telomeres and have increased susceptibility to apoptosis [195]. When high levels of pro-liferation cannot be maintained, Treg deﬁciency occurs, which can impair tolerance induction and is associated with sig-niﬁcant clinical manifestations of chronic GVHD [194].
+Although Tregs are hypoproliferative in vitro, murine studies have documented their rapid expansion after adop-tive transfer in HCT recipients [196]. Treg depletion from the stem cell graft exacerbates acute GVHD in mice, whereas supplemental Treg infusion can prevent disease develop-ment [197-202]. Adoptive therapy with ex vivo expanded Tregs can be used to augment the Treg pool [203-206], correct a relative Treg deﬁciency, and promote peripheral immune tolerance in vivo [207-211]. Tregs are not detectable in the peripheral blood beyond 2 weeks postinfusion in HCT re-cipients [183], however, possibly due to the suppression of IL-2 production by Tregs, the use of calcineurin inhibitors, or migration out of the blood into tissues. Murine models have identiﬁed IL-2 as the primary homeostatic cytokine that regu-lates CD4+ Treg development and maintains the Treg pool in vivo [212-215]. Genetic deletion of IL-2 or CD25 leads to Treg deﬁciency and autoimmunity [216]. Low-dose IL-2 can be ad-ministered safely for prolonged periods later after allogeneic HCT, when inﬂammation has partially subsided, with clini-cal beneﬁt in mice [217] and patients with chronic GVHD. This approach results in the selective expansion of CD4+ Tregs in vivo without promoting the expansion of effector T cells or exacerbation of GVHD [218-220]. Chronic augmentation of systemic IL-2 at physiological concentrations increases thymic production of naïve Tregs along with the proliferation of naïve and memory Tregs [221]. In this context, bcl2 expression is increased, thereby reducing Treg susceptibility to apopto-sis. Despite these changes in Treg homeostasis, IL-2 alone might not be suﬃcient to increase the functional Treg pool, and a combination of low-dose IL-2 or novel IL-2 formula-tions with adoptive Treg therapy may be required to provide long-lasting recovery of immune tolerance after HCT [222].
+
+B cell dysregulation and chronic GVHD
+In the non-HCT setting, high avidity interactions of B cell receptors (BCRs) with autoantigens in the BM results in de-letion of autoreactive B cells [223]. This does not occur in patients with chronic GVHD who develop antibody re-sponses to minor histocompatibility antigens (miHAs) after allogeneic HCT [224-226] (Figure 4). Although in several murine models, alloimmunity is required for the develop-ment of chronic GVHD [227] and transferable autoimmunity [170,228], B cells and the production of autoantibodies appear to play key roles in some types of chronic GVHD [229]. More-over, the frequent production of autoantibodies by patients with chronic GVHD suggests that a loss of B cell tolerance is operative [230]. Although a number of autoantibodies, in-cluding anti-nuclear antibodies (ANAs), anti–double-stranded DNA (anti-dsDNA), and platelet-derived growth factor re-ceptor (PDGFR)-α, have been found in association with chronic GVHD [231-234], these ﬁndings have been variable. An ex-ception is antibodies directed against Y-chromosome– encoded epitopes (H-Y antibodies) in male recipients of stem cell grafts from female donors who develop chronic GVHD [224,225,235].
+Both BCR signaling and BAFF play key roles in determin-ing B cell fate and survival. Aberrant activation of B cells relies on the presence of pivotal drivers of BAFF and BCR signal-ing after HCT [236,237]. Recently identiﬁed signaling pathways that are dysregulated during chronic GVHD have led to
+220	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+
+clinical trials using targeted agents to inhibit these path-ways [238-241]. As in the non-HCT autoimmune disease setting, both the availability of BAFF and the aﬃnity of avail-able antigen for the BCR determine the autoreactive potential of the peripheral B cell pool [242]. High BAFF levels early after HCT in combination with failure of normal checkpoints vital to B cell tolerance allow persistence and propagation of donor B cells reactive to a variety of host antigens that can secrete disease-causing alloantibodies and autoantibodies. Multi-ple groups have shown that chronic GVHD is closely associated with aberrant BAFF levels [96,234], an activated B cell phe-notype, and aberrant BAFF/B cell ratios [239,243-245]. B cells with polyreactive BCRs that should be deleted in the periph-ery if B cell tolerance is achieved are potentially rescued by suﬃcient amounts of BAFF in patients with chronic GVHD [243]. Excessive BAFF levels in chronic GVHD have been as-sociated with increased proportions of antigen-experienced and transitional-like B cell subsets [246,247]. These CD27+ B cells, including an IgD+CD38Hi extrafollicular B cell subset, are likely promoted by excessive amounts of BAFF, but how these cells are generated and whether they are pathological remains unknown [243]. Whether these B cell subsets are present in lesional tissue and have the ability to target sites of disease remains an area of active interest [248]. Regulatory B cells (Bregs) [249] and T follicular helper (Tfh) cells [144,250] may contribute to aberrant B cell function and represent impor-tant nodes of B cell and T cell cooperativity in chronic GVHD pathogenesis.
+Potential mechanistic links between BCR activation and BAFF in disease microenvironments require further study in murine models. For example, studies in patients are almost always based on peripheral blood B cells, whereas murine studies preferentially use splenic B cells. Furthermore, the ex-pression of B cell surface antigens differs between mice and humans [251]. In mice, germinal center (GC) reactions can be critical for chronic GVHD development [144,252] and may produce clues to pathogenic mechanisms operative in the de-velopment of clinical disease as described below. Patients with chronic  GVHD  are  often  characterized  by  functional hyposplenism, although patients without chronic GVHD can also have splenic dysfunction [253-255]. Secondary lym-phoid  organs  are  diﬃcult  to  study  in  patients,  and reconstitution of follicular B cells in lymph nodes is known to be delayed and atypical in patients with chronic GVHD [256]. A paucity of total CD27+ memory and IgD− post-GC B cell numbers in the peripheral blood [257], in association with increased infections, corroborates a failure of typical anti-microbial GC reactions in patients with possible support by aberrant B cells. Although robust GC formation appears to be critical for disease initiation, a recent study revealed that GC disruption is important for disease maintenance [258]. In ad-dition to potential GC and non-GC extrafollicular reactions in secondary lymphoid organs, the BM may represent a crit-ical site in the genesis of chronic GVHD [259-261]. Additional experiments addressing these possibilities are warranted.
+Why chronic GVHD patients produce alloreactive B cells and antibodies but not clinically relevant antimicrobial re-sponses highlights an important gap in our knowledge about B cell pathobiology. Loss of antibody titers to microbes and muted B cell responses to microbial pattern recognition re-ceptors like lipopolysaccharide potentially contribute to this GVHD-associated immune deﬁciency [262]. Whereas ex vivo assays have shown that B cells are constitutively activated in chronic GVHD, B cell lymphopenia and humoral immune deﬁciency are distinctive characteristics of chronic GVHD
+
+[144,238-241]. In this regard, patients with chronic GVHD appear to be similar to patients with common variable immune deﬁciency given their shared propensity toward B cell autoreactivity/alloreactivity in the face of profound humoral immune deﬁciency [230,263]. The apparent incon-gruence between increased B cell survival, activation, and IgG production and poor functional antimicrobial responses remains to be addressed.
+Finally, B cells can have regulatory properties that sup-press rather than initiate chronic GVHD. Bregs have been recently identiﬁed as a novel B cell population associated with chronic GVHD development [54,147,249]. Emergence of a pop-ulation of CD19+CD21low B cells by day 100 correlates with the subsequent development of chronic GVHD [264], speciﬁcally in patients who have BOS [265] and hypogammaglobulinemia [266]. Proportions of this B cell subset may have predictive value with respect to responsiveness to extracorporeal photopheresis [267].
+
+Step 3: Aberrant Repair, Propagation of Fibrosis, and Progression of Chronic GVHD
+Wound healing, repair, and ﬁbrosis
+The immune system plays a central role in the regula-tion of inﬂammation, tissue repair, and recovery. These processes are essential for host defense, wound healing in re-sponse to epithelial damage, and the maintenance of tissue homeostasis. Dysregulated immunity and aberrant tissue repair can lead to scarring or ﬁbrosis [268], deﬁned as the excessive accumulation of components of the extracellular matrix (ECM) in and around inﬂamed or damaged tissue. Pathological ﬁbrosis results from chronic infection, persis-tent immune activation, and/or impaired regenerative responses [269]. Progressive loss of normal tissue architec-ture and organ function is the hallmark of ﬁbrotic disorders. Immunologic mechanisms resulting in excessive collagen de-position and the development of ﬁbrosis are complex. Activation of ECM-producing myoﬁbroblasts is a common feature of all ﬁbrotic disorders regardless of the initiating event [268]. Acute inﬂammatory responses often initiate the ﬁ-brotic cascade. Early endothelial damage activates coagulation pathways and results in the release of chemotactic factors that recruit immune cells to sites of tissue injury.
+Synergistic interactions between components of innate and adaptive immunity contribute to evolving tissue inﬂamma-tion and ultimately regulate the differentiation of ﬁbroblasts into activated, ECM-producing myoﬁbroblasts (reviewed in [268]). Myeloid cells secrete soluble factors (TNFα, IL-1β, and IL-6), identiﬁed as important drivers of ﬁbrosis. Tissue mac-rophages are also key regulators of ﬁbrosis and a major source of TGFβ (perhaps the most signiﬁcant molecule involved in ﬁbrinogenesis), and PDGF. They are also major producers of both matrix metalloproteinases (MMPs) as well as their en-dogenous suppressors, tissue inhibitors of MMPs (TIMPs) [270,271]. In addition to TGFβ, classically activated (M1) mac-rophages secrete proinﬂammatory cytokines, including TNFα and IL-1β, which can activate ﬁbroblasts and contribute to ECM generation. Alternatively activated (M2) macrophages are a distinct subset of cells that have been shown to sup-press inﬂammation and contribute to both proﬁbrotic and antiﬁbrotic processes [267,272].
+The contribution of the adaptive immune response to ﬁ-brosis is well recognized. The recruitment of activated Th2 and Th17 CD4+ T cells also promotes ﬁbrosis primarily through the secretion of IL-13 and IL-17, respectively. In contrast, the role of Th1 cytokine IFNγ is more controversial, exhibiting both
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	221
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5.  Phase 3: Aberrant tissue repair and pathways of antibody-mediated ﬁbrosis. The contribution of B cells to the development of chronic GVHD has been recently highlighted in several experimental systems. One pathway emphasizes interactions between donor-derived T cells and B cells in secondary lym-phoid tissues, including the spleen peripheral lymph nodes. The generation of alloreactive or autoreactive B cells and the dysregulated production of alloantibodies and autoantibodies initiates a cascade of events that involves activation of monocytes and macrophages along with endothelial and epithelial injury. The release of soluble factors, including TGFβ, and ﬁbroblast stimulation characteristic of aberrant tissue repair result in collagen and matrix production and deposition, culminating in target organ ﬁbrosis and dysfunction.
+
+
+
+proﬁbrotic and antiﬁbrotic effects. Several experimental systems have revealed a role for B cells in the development of ﬁbrosis that characterizes some forms of chronic GVHD [144,240,252,273]. Interactions between donor-derived T cells and B cells in secondary lymphoid tissues initiates a cascade of  events  resulting  in  the  generation  of  alloreactive/ autoreactive B cells and the dysregulated production of alloantibodies/autoantibodies, activation of monocytes and macrophages, injury to ECs and epithelial cells, and release of soluble factors, including TGFβ. Fibroblast stimulation leads to matrix production and collagen deposition, culminating in multiorgan ﬁbrosis and dysfunction (Figure5). Finally, Tregs also contribute to wound healing through the production of IL-10, TGFβ, and amphiregulin. Tregs suppress inﬂamma-tion, but their effects on ﬁbrosis are variable and may depend in large part on the role of other T effector populations. Tregs may exacerbate TGFβ-induced ﬁbrosis but suppress Th2- and Th17-driven disease [268,271].
+Normal tissue repair mechanisms activated in response to an injurious event work to dampen the associated inﬂam-matory response, limit cellular damage, reestablish tissue integrity and homeostasis, and ultimately expedite function-al wound healing as opposed to progressive scarring [274,275]. Like the inﬂammation engendered during chronic GVHD, wound healing exempliﬁes a highly dynamic interface between innate and adaptive immunity [276]. The healing of damaged tissue must be tightly controlled as an inﬂam-matory response ends. As noted, nonresolving inﬂammation or exuberant or excessive repair can lead to ﬁbrosis, scar-ring, and organ dysfunction. Complex interactions among neutrophils, macrophages, stromal cells, coagulation path-ways, lipid mediators, and ECM molecules must occur in a
+
+synchronized fashion in distinct locations [277,278]. Mecha-nisms contributing to the resolution of inﬂammation are now understood to be biochemically distinct from traditional anti-inﬂammatory pathways [276,278]. Although some aspects of these pathways may be conserved, others are likely to be organ-speciﬁc.
+Deposition of an ECM is paramount to the initiation and evolution of the reparative process. For example, the estab-lishment of a provisional matrix to replace lost or damaged tissue is followed by transition to a more “mature” ECM that is  ultimately  remodeled  to  replicate  functional  tissue [279,280]. Importantly, the ECM plays an active role in modu-lating cell–ECM interactions during these changes. Functional repair, irrespective of organ involvement, is predicated in large part on reestablishment of the epithelial barrier and vascu-lar  remodeling  [275,279].  The  latter  is  paramount  to maintaining blood ﬂow and establishing a continual supply of oxygen and nutrients to damaged tissues [275,280]. In this context, epithelial and endothelial regeneration are funda-mental to the restoration of vascular integrity and tissue architecture and organ function [279].
+It is conceivable that these reparative pathways are op-erative  when  the  inciting  alloimmune  stimulus  and accompanying inﬂammation that characterizes chronic GVHD is controlled and immune tolerance is restored. The precise mechanisms involved in tissue regeneration and repair after successful treatment of chronic GVHD have yet to be rigor-ously studied or understood, however, and this remains a signiﬁcant knowledge gap in both basic biology and clinical medicine. Similarly, determining whether the tissue destruc-tive effects of chronic GVHD have fully resolved following the development of immune tolerance is also challenging.
+222	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6.  Pulmonary dysfunction and the triphasic model of chronic GVHD. Conceptually, the triphasic model of chronic GVHD can be applied to the devel-opment of lung dysfunction after allogeneic HCT. (A) In phase one, acute lung injury occurs as a consequence of an allogeneic immune response and results in the inﬂux of donor immune cells into an inﬂamed pulmonary parenchyma. (B and D) Persistence of an inﬂammatory signal in the setting of dysregulated immunity promotes the transition from acute to chronic injury in phase two. If the inciting injurious event involves predominantly bronchiolar epithelial cells, then phase II is associated with the development of chronic bronchiolitis (B). If, in contrast, the principal target of chronic inﬂammation is the alveolar epithelium, then leukocyte recruitment and matrix deposition during phase two contribute to interstitial pneumonitis (D). (C) In the context of aberrant repair, chronic inﬂammation proceeds to phase three. Lung ﬁbroblasts increase dramatically in number and contribute to the enhanced deposition of collagen and granulation tissue in and around bronchial structures, ultimately resulting in complete obliteration of small airways and ﬁxed OLD characteristic of bronchi-olitis obliterans (BrOb). (E) Fibroblast proliferation and intraseptal collagen deposition during phase three ultimately results in interstitial thickening, septal ﬁbrosis, signiﬁcant volume reduction, and the development of severe restrictive lung disease (RLD) and interstitial ﬁbrosis.
+
+
+
+Normalization of laboratory values, inﬂammation, and organ function in the liver and kidney; restoration of epidermal and mucosal integrity in the skin and oral tissues; resolution of end organ symptomatology in the gut, eyes, and lungs; and stabilization or improvement of lung function all may be con-sidered in the decision of whether to discontinue treatment with immunosuppressive medications.
+
+Mechanisms of pulmonary ﬁbrosis
+Declining lung function is a signiﬁcant complication in the months and years after successful allogeneic HCT [15,281,282]. Two forms of chronic lung disease are commonly observed in this context: obstructive lung disease (OLD), otherwise known as BOS, and restrictive lung disease (RLD) [283-287]. The most recognized form of chronic GVHD of the lung is BOS [281,282,288]. In each scenario, collagen deposition and the development of ﬁbrosis either in the peribronchiolar (OLD) or interstitial (RLD) space contribute to the resultant pat-terns of lung dysfunction [283]. The complex pathophysiology that characterizes lung ﬁbrosis after HCT is poorly under-stood and represents the most signiﬁcant gap in the current knowledge of this spectrum of chronic GVHD [20,289,290]. This limitation stems from the lack of correlative data ob-tained from aﬄicted HCT recipients, along with the paucity of suitable HCT animal models for either the restrictive form or the obstructive form of chronic lung injury.
+Until recently, most of the knowledge of the pathogen-esis of OLD/BOS was based on observations made in lung allograft recipients and from data generated in murine het-erotopic tracheal transplantation models. In this context, ﬁbrosis developing during chronic GVHD of the lung is be-
+
+lieved to involve, at least in part, a persistent or recurrent antigenic stimulus, which elicits chronic inﬂammation and aberrant repair [283]. This exaggerated reparative response involves the recruitment of donor-derived immune cells, dif-ferentiation of ﬁbroblasts into myoﬁbroblasts, inappropriate ECM deposition, and disruption of the alveolar capillary mem-brane and/or obliteration of the terminal bronchioles [280]. Destruction of epithelial cells, ECs, and basement mem-brane integrity culminates in the uniform loss of tissue architecture, progressive ﬁbrosis, and ultimately, irrevers-ible loss of function. Removal of the chronic inﬂammatory stimulus may lead to resorption/remodeling of the ECM. Sub-sequent reepithelialization and reendothelialization can result in reestablishment of the alveolar capillary membrane and the terminal bronchiolar architecture and restoration of normal function [280]. Although alloreactive effector cells are required to initiate chronic GVHD in mice and patients, their role in the initial damage to the alveolar or bronchiolar ep-ithelium  and  the  subsequent  progression  to  chronic pulmonary injury have not been thoroughly elucidated. For example, an early robust inﬂammatory phase might not be a prerequisite for subsequent ﬁbrosis; persistent epithelial damage and subsequent “cross-talk” among epithelial cells, inﬂammatory cells, and ﬁbroblasts may be suﬃcient for the development of ﬁbrotic lung disease [271,291].
+Conceptually, the triphasic model of chronic GVHD out-lined above can be applied to the development of pulmonary dysfunction after HCT [284] (Figure 6). In phase 1, acute in-ﬂammation, which may be subclinical in nature, results in the sequential inﬂux of lymphocytes, macrophages, and neu-trophils into the pulmonary parenchyma. This injury is
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	223
+
+
+
+initiated   early   after   allogeneic   HCT   by   a   systemic proinﬂammatory environment that leads to chemokine up-regulation,   leukocyte   recruitment,   and   secretion   of inﬂammatory cytokines in the lung [104]. In phase 2, per-sistence  of  an  inﬂammatory  signal  in  the  setting  of dysregulated immune mechanisms results in epithelial apop-tosis and the transition from acute to chronic injury, either involving the peribronchiolar areas, resulting in the devel-opment of chronic bronchiolitis, or conﬁned primarily to the interstitial space. As chronic inﬂammation proceeds to phase 3, lung ﬁbroblasts contribute to the enhanced deposition of collagen and granulation tissue. When this occurs in and around bronchial structures, complete obliteration of small airways, and signiﬁcant, “ﬁxed” OLD ensues. In contrast, ﬁ-broblast proliferation and intraseptal collagen deposition may ultimately result in interstitial thickening, septal ﬁbrosis, sig-niﬁcant volume loss, and impaired gas exchange, which are characteristic of severe RLD.
+TGFβ is a central mediator that may be necessary to ini-tiate ﬁbrosis but insuﬃcient to sustain ﬁbrosis. More recently, murine systems have shown that dysregulation of other factors, including TNFα and IL-1β [268,284,292], aberrant B cell immunity, and autoantibody/alloantibody production [144], along with disruption of the balance of M1/M2 mac-rophage function [132,268], may be operative as well.
+
+MURINE CHRONIC GVHD MODELS: LABORATORY INSIGHTS AS A BRIDGE TO CLINICAL TRANSLATION
+It is generally accepted that animal models incompletely replicate the complex phenotypes and clinical manifesta-tions  of  chronic  GVHD  in  humans.  Moreover,  current preclinical models do not encompass the full spectrum of pathological features of the clinical disease state. In keeping with observations in humans, data generated in murine models suggest that the immunologic underpinnings of chronic and acute GVHD are distinct at both cellular and mo-lecular levels. Two publications have provided comprehensive overviews of currently available chronic GVHD systems and have described the diverse efforts to study chronic GVHD using murine models [293,294]. Model variables have been com-pared and contrasted in terms of methodology (strain combination, conditioning regimen, cell dose), disease pre-sentation (target organs, pathological basis), and proposed or elucidated pathogenic mechanisms.
+In this section, we focus on more recent models that have contributed to advances in our understanding of the patho-physiology of chronic GVHD, particularly related to the phases of chronic GVHD (Table 4). We discuss several new chronic GVHD models that have been instrumental in facilitating the testing of targeted strategies to prevent or treat chronic GVHD.
+
+INFLAMMATORY MODELS AND THE TRANSITION FROM ACUTE TO CHRONIC GVHD
+It is accepted that proinﬂammatory acute GVHD re-sponses likely play a role in the subsequent development of chronic GVHD. This is particularly relevant to the study of “overlap syndrome” with clinical acute GVHD characteris-tics and progressive chronic GVHD. Chronic GVHD that is preceded by acute GVHD may differ biologically from de novo chronic GVHD. One such model using the fully allogeneic, MHC- and miHA-mismatched strain combination (C57BL/ 6®Balb/c) is an established system for acute GVHD (Table 4). Activated host APCs induce CD4+ and CD8+ donor-derived T cells and cause mTEC damage, resulting in the production of autoreactive CD4+  T cells. Donor graft–derived CD8+  T cells
+
+are more potent than CD4+ T cells in inducing chronic GVHD, but recipient thymus and de novo donor-derived CD4+ T cells are required for disease penetration. Autoreactive T cells then interact with donor DCs and B cells, resulting in their ex-pansion and consequent perpetuation of chronic GVHD and autoantibody production [70,159,295].
+Similarly, a clinically relevant, G-CSF–treated, parent®F1 (C57BL/6®B6D2F1) irradiation model (Table 4), as well as the aforementioned multiorgan system chronic GVHD models (re-viewed in [10,104]), implicate roles for IL-17 and tissue inﬁltration of F4/80+ macrophages as central mediators of skin scleroderma [296]. Targeting macrophage colony-stimulating factor (CSF) signaling may represent a novel therapeutic strat-egy for prevention and treatment of chronic GVHD [132]. Findings in this parent®F1 model also have been instrumen-tal in the study of chronic ﬁbrotic pulmonary dysfunction after allogeneic HCT, including the demonstration that TNFα plays a critical role during the transition from acute to chronic in-ﬂammation in the lungs [284,297,298]. Experimental data led to the development and completion of a clinical study using etanercept for HCT recipients with restrictive or obstructive noninfectious chronic lung disease [299].
+
+Preclinical Models of Immune Dysregulatory Chronic GVHD
+Lupus-like models
+Historically, the most frequently used chronic GVHD strain combination is a semi-allogeneic, non-irradiated, parent into F1 model that result in lupus-like manifestations [300] (Table 4). Following the infusion of unfractionated parental splenocytes, GVHD is initiated by donor CD4+  T cell activa-tion in response to host allogeneic MHC class II antigens, resulting in cognate donor CD4+  T cell help to host B cells. Acknowledged weaknesses of this model include the lack of clinical correlates of human chronic GVHD, incomplete donor engraftment, and the absence of radiation or conditioning regimen–associated tissue injury. Nonetheless, novel poten-tial targets for chronic GVHD intervention have been illustrated through this model, including CD137 agonist therapy and anti-TNF p55 subunit blockade [300,301].
+
+Thymic damage and treg deﬁciency
+As noted above, murine chronic GVHD models centered on thymic damage and Treg deﬁciency have provided im-portant information on the breakdown of thymic function and central tolerance, uncovering an etiologic link between acute and chronic GVHD [129,302]. In these models (Table4), GVHD-induced alloimmunity is antigen-driven, resulting in repertoire skewing and dominant, high-frequency clonotypes that emerge owing to inadequate T cell immune regulation [69], and manifests predominantly as inﬂammatory (colitis) rather than ﬁbrotic disease [69].
+
+B cells, immune dysregulation, and multiorgan GVHD
+The importance of B cells in development of chronic GVHD was ﬁrst described in a sclerotic chronic GVHD miHA-disparate, MHC-identical mouse model (C57BL6®LP/J) using an anti-μ antibody [229] and subsequently in a full MHC-disparate model (C57BL/6®B10.BR) in which the development of multiorgan, chronic GVHD (including lung, liver, and colon ﬁbrosis) is associated with CD4+ T cell and B cell inﬁltration [252,273]. In addition, donor-derived alloantibody (IgG) and an increased frequency of Tfh cells that support GC formation are required for BOS development. Interruption of GC for-mation  by  various  approaches  can  effectively  reverse
+
+224
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+Table 4
+Summary of Chronic GVHD Mouse Models
+
+Model Type	Model Characteristics	Model Clinical Phenotype	Findings	Therapies Generated	References
+
+Lupus-like
+
+
+
+Thymic damage
+
+Parental haploidentical, DBA2 (H-2d haplotype) splenocytes into unconditioned (B6 ´ DBA2) F1 hosts (H-2bd haplotype)
+
+• Acute GVHD in lethally irradiated, MHC-mismatched, recipient
+• Post-BM transplantation, splenic T cells transferred into unconditioned donor strain immunodeﬁcient (Rag−/−)
+
+
+• DNA and chromatin-directed autoantibody; immune complex–
+mediated glomerulonephritis; lack of clinical correlation to human
+chronic GVHD
+• Inﬂammatory disease (colitis) • Not a ﬁbrotic process
+
+
+• Partial donor chimerism
+• Relies on activated host B cells
+
+
+• GVHD is antigen-driven • Repertoire skewing seen
+• Dominant high-frequency clonotypes
+
+
+• CD137 agonist therapy
+• Anti-TNF p55 subunit blockade
+
+
+[300,301]
+
+
+
+[69,129,302]
+
+recipients
+Multiorgan	MHC disparate model; B10.BR mice are	Multiorgan involvement:	• CD4+ T cell and B cell inﬁltration in	Abrogation of chronic GVHD by targeting:	[98,132,144,217, involvement	conditioned with cyclophosphamide and TBI,        • Lung                                                                        target organs                                                              • Lymphotoxin-β receptor Ig targeting GC	240,241,252,273,
+followed by the infusion of BM and puriﬁed	• Liver	• Increased frequency of T follicular	formation	310] splenic T cells from B6 donors	• Colon                                                                      helper cells by supporting GC formation       • B cell signaling through Bruton’s tyrosine
+• Tongue	and maintenance, leading to IgG	kinase and IL-2–inducible T cell kinase via • Spleen	deposition in target tissues, is essential	ibrutinib; spleen tyrosine kinase targeting • Thymus	for disease pathogenesis	with fostatinib
+• Deﬁciency of T follicular regulatory cells	• Targeting Tfh cells by blocking ICOS, that suppress GC formation                                     CD40L, IL-21, and IL-2Rgc
+• Macrophage-dependent disease	• Phosphorylation of STAT3, Rho-associated • Multiorgan system ﬁbrosis (lung, liver,               kinase 2, RORC, Jak1/2 (ruxolitinib)
+colon) is a prominent feature	• Macrophage depletion by targeting CSF-1
+signaling
+• T follicular regulatory infusion
+Sclerodermatous/	• DBA/2 (H-2d) and BALB/c (H-2d) miHA-  Donor B and CD4+ T cells required for	• B cells drive clonal donor autoreactive	• Anti-CD20 antibody prevents chronic	[295,336]. lupus-like                              only mismatched	pathogenesis                                                                 CD4+ T cells                                                                     GVHD
+• Sublethal irradiation and DBA/2	• CD11b+/Gr-1+ PMNs and macrophages splenocytes
+Proﬁbrotic	• Classical model B10.D2®BALB/c	• Fibrotic changes in skin,	• Mononuclear cell inﬁltration, increased	• Prevention and/or attenuation of	[62, 136-138, 144, • Donor T cells B10.D2 and BALB/c mice	gastrointestinal tract, liver                                 collagen deposition                                                     established chronic GVHD	304-307, 336]
+are MHC-matched (H-2d haplotype)	• Bronchiolitis obliterans syndrome	• Expansion of Th1 and Th17 cells,	• Am80, a potent synthetic retinoid mismatched at MiHA                                               model                                                                     dermaﬁbrosis with donor CD11b+	• Sphingosine-1-phosphate receptor
+• 700 cGy of TBI to recipients and                     • Donor B and CD4+ T cells required             monocytes and activated macrophages              antagonist FTY720 modulates infusion of BM and whole spleen cells             for pathogenesis                                            • Effector T cell and pSTAT3 dependent                  inﬂammatory immune cells
+• IL-10–producing B cells prevent disease	• Bortezomib modulates pathogenic B cells Sclerodermatous	• LP/J®C57BL/6 model of	Manifestations of both acute and chronic    Removal of B cells prevents T cell priming to         Prevention of chronic GVHD:	[241,308]
+sclerodermatous chronic GVHD	GVHD:	MiHA and development of chronic GVHD	• Treatment with anti-μ polysera
+• HLA-matched strains	• Skin	• Chloroquine
+• Myeloablative	• Lungs	• Ibrutinib
+• Kidneys
+Inﬂammatory with	• MHC mismatched, strain combination    Chronic GVHD manifestations	• Donor CD4+ and CD8+ alloreactive T cells   Targeting CSF-1 signaling	[70,159,295]. progression of acute           (B6®Balb/c)	• Cutaneous ﬁbrosis                                             damage mTECs
+GVHD to chronic	• Established model of acute GVHD	• Salivary glands	• Donor CD8+ T cells induce chronic GVHD GVHD	• Reduction in donor T cells develop	• Fibrosis of the thymus	• Recipient thymus and de novo donor
+pathognomonic ﬁndings of chronic	• Serum autoantibodies	CD4 T cells required
+GVHD (>60 d after HCT)	• IL-17 mediates scleroderma • Macrophages critical
+Progressive acute	• C57Bl/6 parent®irradiated B6D2F1	Sclerodermatous manifestation of chronic	• TNFα important for progression of acute	• Anti–CSF-1	[132,292,296] GVHD to chronic                 model with BM plus G-CSF–mobilized    GVHD:                                                                             GVHD to chronic GVHD of the lung	• Anti-TNFα (etanercept)
+GVHD	splenocytes or unmobilized T cells	• Skin • Lung
+GVHD indicates graft-versus-host disease; HCT, hematopoietic cell transplantation; GC, germinal center; BM, bone marrow; PMN, polymorphonuclear lymphocyte; TBI, total body irradiation; MHC, major histocompatibility vomplex; MiHA; minor histocompatibility antigen; G-CSF, granulocyte colony-stimulating factor; mTEC, medullary thymic epithelial cell.
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	225
+
+
+
+established, antibody-dependent chronic GVHD early in the course of disease [240,241,252]. Recent work with same model has shown that targeting Tfh cells hinders GC forma-tion and prevents chronic GVHD, or reverses its early manifestations [144].
+Several  important  insights  were  also  gained  using  an MHC-matched  DBA2®BALB/c  model,  in  which  disease  is manifested as lupus-like and sclerodermatous phenotypes (Table 4). Donor B cells have a marked effect on the progres-sion of chronic GVHD by sustaining the clonal expansion of donor alloreactive CD4+ T cells [295]. Pathogenic alloreactive T cells responsible for target tissue injury and consequent recruitment of CD11b+/Gr-1+  macrophages and neutrophils appear to originate from mature (post-thymic) T cells ad-ministered with the donor graft, emerging without obvious thymus damage [70]. Anti-CD20 monoclonal antibodies (mAb) given early post-HCT prevent chronic GVHD induction and preserve GVL effects [303]. In contrast to human chronic GVHD, administration of anti-CD20 mAb after GVHD onset is not effective in depleting donor B cells or ameliorating murine  chronic  GVHD  in  an  miHA-disparate  model (B10.D2®Balb/c) and in 2 distinct MHC-disparate models (C57BL/6®B10.BR and C57BL/6®Balb/c) [144]. This is pos-sibly the result of failure to deplete CD20neg  plasmablasts and plasma cells.
+
+
+Proﬁbrotic Chronic GVHD Models
+Important advances have occurred in various models in which tissue ﬁbrosis is the primary histological ﬁnding. In the classical miHA-disparate, MHC-identical B10.D2®BALB/c sclerodermatous model of chronic GVHD, the phenotypic hall-marks are ﬁbrotic changes in the skin, lung, gastrointestinal tract, and liver (Table 4) [144,304]. Donor B cells and CD4+ T cells are again important to disease development. Multiorgan injury is caused by expansion of both Th1 and Th17 CD4+ T cells, and dermal ﬁbrosis is preceded by inﬁltration of donor-derived CD11b+ cells consisting of monocytes and activated macrophages [304]. When B10.D2 animals deﬁcient in STAT3 are used as donors, Th17 cells do not develop in the recipi-ent’s spleen and liver, the overall expansion of donor CD4+ T cells is reduced [136], and FoxP3+ Treg frequency steadily increases. Selective neutralization of Th1 (IL-12)- or Th17-promoting cytokines (IL-23) subverted chronic GVHD gen-eration [137]. This initial Th1/Th17-driven step toward the development of tissue ﬁbrosis is amenable to down-regulation by either modulation of PDL-1 expression on tissues and/or stimulation of the PD-1 on donor T cells [138]. Several phar-macologic interventions, such as Am80, a potent synthetic retinoid [305], the proteosomal inhibitor bortezomib [306], and the sphingosine-1-phosphate receptor antagonist FTY720 [307], play signiﬁcant roles in the prevention and/or atten-uation of established chronic GVHD in this model. IL-10– producing  Bregs  also  play  a  role  in  the  prevention  of sclerodermatous GVHD in this system [249].
+The LP/J®C57BL/6 model of sclerodermatous chronic GVHD [308] is another solely miHA-disparate donor–recipient strain combination. This system is characterized by mani-festations of both acute and chronic forms of skin and lung GVHD and was one of the ﬁrst models to reveal a possible role for B cells in antigen presentation during chronic GVHD pathogenesis [229]. In addition to skin disease, alloimmune-mediated injury can be detected in lung and kidney as well. Ibrutinib, a Bruton’s tyrosine kinase and IL-2–inducible T cell kinase, improves sclerodermatous chronic GVHD
+
+progression-free survival and diminishes clinical and histo-pathological chronic GVHD in this model as well as in the C57BL/6®B10.BR multiorgan system model [241].
+There are multiple roads to the development of tissue ﬁ-brosis, all converging on the production of proﬁbrogenic molecules and ﬁbroblast proliferation. Genetic factors that deﬁne the presentation and recognition of miHA antigens, along with the utilization of G-CSF donor cell mobilization [296], may be critical determinants of chronic GVHD sus-ceptibility [309]. Both Th17 and Th2 cells appear to collaborate with B cells that produce autoreactive or alloreactive anti-bodies via IL-21 or IL-4, respectively. Indeed, donor splenocytes deﬁcient in the retinoid-related orphan receptor γ RORC (re-quired for lineage commitment to IL-17–producing cells) fail to cause chronic GVHD in a multiorgan system model [132], indicating that BOS develops in an IL-17–dependent fashion, similar to cutaneous chronic GVHD [296]. Antibody deposi-tion can cross-link Fc receptors expressed on monocytes and macrophages culminating in TGF-β release and activate B cells, further fueling the antibody response. Th1 cells also may con-tribute to chronic GVHD generation by causing tissue injury to the thymus and mucosa of epithelial-rich organs, such as small and large intestines and liver, and through the release of inﬂammatory cytokines like TNFα. From a broader per-spective, skin ﬁbrosis appears to be an IL-17–dependent process, whereas aberrant B cell function and alloantibody deposition along with inﬂammatory cytokine release are im-portant to lung and liver injury.
+For the foreseeable future, there remains an unmet need for relevant chronic GVHD murine models, especially those that simulate the multiorgan manifestations and complex immune pathology of chronic GVHD observed in humans. Es-tablishing a model of chronic GVHD developing in an adult or aged immune system may have signiﬁcant merit, given the increasing frequency of chronic GVHD with age. Improve-ments in current chronic GVHD models that are limited by the general absence of immunosuppressive drugs for acute or chronic GVHD prophylaxis and treatment are also needed; such systems may increase the likelihood of identifying the most clinically relevant pathways of chronic GVHD genera-tion and maintenance.
+Finally, developing preclinical models to optimally address how interventions to abrogate chronic GVHD may inﬂuence GVL effects requires future investigation. This is a highly rel-evant topic, given that some clinical studies have suggested that effective GVL activity is derived primarily from chronic GVHD rather than from acute GVHD, particularly when low-intensity conditioning regimens are used. Numerous rodent experiments have demonstrated preservation of GVL effects when interventions are introduced in mice to attenuate acute GVHD, but the same question has only recently been ex-plored in the context of chronic GVHD [303,306,310]. In this context, optimal chronic GVHD models should include several factors: the biology of tumor proliferation and kinetics of tumor elimination, whether interventions used to abrogate chronic GVHD also target the tumor used, whether mecha-nisms exploited by the experimental system to induce chronic GVHD (targeting of tissue-speciﬁc antigens or end-organ– speciﬁc immune cell homing, contribution of B cell responses) lend themselves to antileukemia/antitumor effects, and the magnitude of the immune response required to best study graft-versus-host and graft-verus-tumor activity. The latter will be inﬂuenced both by the number and composition (pu-riﬁed T cells versus whole splenocytes) of immune cells infused along with the extent of lymphocyte (T cell and B cell)
+226	K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234
+
+
+
+ampliﬁcation associated with the development of chronic GVHD.
+
+BIOMARKERS AND HUMAN CHRONIC GVHD BIOLOGY Although the primary purpose of biomarkers is not to
+study the biology of disease, biomarker discovery and vali-dation  can  still  guide  the  understanding  of  disease pathogenesis. Biomarker studies have identiﬁed multiple mol-ecules that have brought to light patterns in cellular subsets, cytokines, autoantibodies, and other factors associated with the diagnosis of chronic GVHD (reviewed in [311]. As such,
+
+biomarker candidates can be important in guiding the design of animal models focused on understanding the pathogen-esis of human disease (reviewed in [311]). Inﬂammatory markers, including IL-2Rα, aminopeptidase N (CD13), IL-4, IL-6, and TNFα, have consistently been identiﬁed in pa-tients with chronic GVHD [92,100,139,234,312,313]. Some of the most promising diagnostic markers include the chemokine ligands CXCL9, CXCL10, and CXCL11, which have been re-ported to correlate with chronic GVHD [73,77,85,92-94].
+Whether Tregs are reliable biomarkers for chronic GVHD remains to be determined. Treg numbers are low in some
+
+
+
+Table 5
+Gaps in Knowledge and Proposed Priority Research Studies for Chronic GVHD Biology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GVHD indicates graft-versus-host disease; HCT, hematopoietic cell transplantation; miHA, minor histocompatibility antigen.
+K.R. Cooke et al. / Biol Blood Marrow Transplant 23 (2017) 211–234	227
+
+
+
+studies but increased in others [187]. Recently, decreased Treg:T cell effector ratios have been correlated with chronic GVHD development in large series [192,221], thus this pa-rameter has emerged as a promising biomarker for disease. As noted earlier, the consequences of thymic damage on ap-propriate negative selection following HCT is an area of signiﬁcant interest [160,164,169]. Although some studies have not  found  an  association  between  chronic  GVHD  and thymopoiesis [314,315], others have noted a strong correla-tion [168,316].
+Despite efforts at categorical grouping, validation of even the most promising biomarker candidates among large, in-dependent cohorts has yet to be consistently achieved. Association analyses may be optimized/enhanced by phe-notypic classiﬁcation. A possible approach would be to cluster organ manifestations by their anatomic patterns (mucocu-taneous, myofascial, pulmonary, and other organ). However, although various organs involved in chronic GVHD can be af-fected   simultaneously,   disease   manifestations   often demonstrate a spreading behavior that progressively affects a broader array of organs and sites over a period of weeks to months. Another major challenge is that a number of clin-ical factors appear to inﬂuence the predictive and prognostic value of biomarkers. These include total body irradiation in the conditioning regimen, peripheral or cord blood as the stem cell source, and reduced-intensity preparative regimens [93], strongly suggesting that the biology of chronic GVHD may vary depending on the clinical scenario. Thus, given the clin-ical and temporal variations in the organs affected, and the protean manifestations within a given organ system, it is un-likely that a unifying biomarker will be associated with all chronic GVHD manifestations.
+Establishing a clinical-biological classiﬁcation system (Table 2) may promote more effective correlations among soluble or cellular biomarkers and established phenotypes. Thus, it would be feasible to study these various biological pro-cesses (inﬂammatory, immune dysregulatory, ﬁbrotic/sclerotic) stratiﬁed by organ involvement, in an effort to understand the pathogenic mechanisms that explain the clinical heterogene-ity of the disease. For example, a recent study separates oral chronic GVHD into oral lesions, salivary dysfunction, and im-paired mouth opening, and demonstrates associations with cutaneous erythema, lacrimal dysfunction, and cutaneous scle-rosis, respectively [317,318]. Along similar lines, recent work has described the incidence and features of cutaneous, soft tissue (fasciitis), or joint (contracture) sclerosis in a large cohort of patients with chronic GVHD [319]. A follow-up study by the same group revealed that 3 candidate single-nucleotide poly-morphisms (SNPs) (in BANK1, CD247, and HLA-DPA), all of which have well-documented links to systemic sclerosis, are also associated with sclerotic GVHD. These ﬁndings support the concept that sclerotic GVHD is a distinct biological phe-notype of chronic GVHD and can be distinguished from “conventional” chronic GVHD by genetic differences [320].
+
+CONCLUDING REMARKS
+Chronic GVHD remains the scourge of allogeneic HCT, neg-atively inﬂuencing recipients’ quality of life, limiting successful outcomes, and correlating with a number of late effects. It has been more than 60 years since the seminal demonstra-tion of acquired transplantation tolerance by Billingham, Brent, and Medawar [321,322], yet most current therapies for chronic GVHD control are empirical, globally immunosuppressive, do not speciﬁcally promote tolerance induction, and continue to be associated with signiﬁcant morbidity and mortality. Cel-lular, medicinal, and protein/antibody-based strategies aimed at restoring immune regulation, modulating T cell signaling responsible for proinﬂammatory and proﬁbrotic cytokine pro-duction, blocking of T:B cell cooperativity, depleting antibody-secreting  cells  or  monocytes/macrophages  that  bind pathogenic antibody, and targeting the proﬁbrogenic process offer the greatest opportunity for preventing and reversing established chronic GVHD. Based on preclinical modeling, some of these approaches have already been or are sched-uled to be clinically tested. The heterogeneity of organ involvement and clinical phenotypes, the paucity of human tissue available for analysis, inconsistent signals from biomarker studies, and profound knowledge gaps in biolog-ical mechanisms of disease have hindered the discovery and implementation of effective therapeutic strategies. In-creased understanding of the initiating events, regulation of inﬂammation and repair, and propagation of tissue injury and ﬁbrosis is required to achieve the long-term goal of chronic GVHD immune modulation. A multidisciplinary approach, along with prospective, longitudinal data collection and testing of relevant preclinical animal models, are needed to deﬁne the immunologic basis of disease and predict disease devel-opment and progression (Table 5). This approach will allow investigators to better deﬁne and exploit a window of op-portunity that may exist for patients at high risk for chronic GVHD or in the early stages of disease development.

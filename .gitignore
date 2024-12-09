@@ -1,0 +1,6 @@
+.idea/*
+/venv/
+/chatbot/output/
+/chatbot/cache/
+/chatbot/logs/
+/chatbot/.env
